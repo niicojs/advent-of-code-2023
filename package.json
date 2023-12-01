@@ -1,0 +1,14 @@
+{
+  "name": "avent-of-code-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "consola": "^3.2.3"
+  }
+}
