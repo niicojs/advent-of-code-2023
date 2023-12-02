@@ -1,7 +1,7 @@
 import { consola } from 'consola';
-import { getDataLines } from '../utils.js';
+import { getCurrentDay, getDataLines } from '../utils.js';
 
-const day = '01';
+const day = getCurrentDay();
 
 consola.wrapAll();
 consola.start('Starting day ' + day);

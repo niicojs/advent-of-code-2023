@@ -2,6 +2,14 @@ import { existsSync, readFileSync } from 'fs';
 import path from 'path';
 
 /**
+ * 
+ * @returns string
+ */
+export function getCurrentDay() {
+  return path.parse(process.argv[1]).name;
+}
+
+/**
  *
  * @param {string} day
  * @returns string

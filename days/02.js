@@ -1,20 +1,16 @@
 import { consola } from 'consola';
-import { enumerate, getDataLines } from '../utils.js';
+import { enumerate, getCurrentDay, getDataLines } from '../utils.js';
 
-const day = '02';
+const day = getCurrentDay();
 
 consola.wrapAll();
 consola.start('Starting day ' + day);
 
 const lines = getDataLines(day);
-// consola.log(lines);
 
 const games = [];
 for (const line of lines) {
-  const match = line.match(/Game (\d+): (.+)/);
-  const strgame = +match[1];
-  const rest = match[2];
-  const sets = rest.split(/\;\s*/m);
+  const sets = line.split(': ')[1].split(/\;\s*/m);
 
   const game = [];
   for (const set of sets) {
