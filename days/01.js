@@ -11,7 +11,7 @@ consola.log(lines);
 
 let sum = 0;
 for (const line of lines) {
-  const fixed = line
+  const numbers = line
     .replaceAll('one', 'one1one')
     .replaceAll('two', 'two2two')
     .replaceAll('three', 'three3three')
@@ -20,14 +20,12 @@ for (const line of lines) {
     .replaceAll('six', 'six6six')
     .replaceAll('seven', 'seven7seven')
     .replaceAll('eight', 'eight8eight')
-    .replaceAll('nine', 'nine9nine');
-  const numbers = fixed
+    .replaceAll('nine', 'nine9nine')
     .split('')
     .filter((c) => !isNaN(+c))
     .map((c) => +c);
   const first = numbers.at(0);
   const last = numbers.at(-1);
-  consola.log(first, last);
   sum += +(first.toString() + last.toString());
 }
 
