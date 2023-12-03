@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from 'fs';
 import path from 'path';
 
 /**
- * 
+ *
  * @returns string
  */
 export function getCurrentDay() {
@@ -32,6 +32,15 @@ export function getDataLines(day) {
 
 /**
  *
+ * @param {string[]} lines
+ * @returns string[][]
+ */
+export function get2DArray(lines) {
+  return lines.map((l) => l.split(''));
+}
+
+/**
+ *
  * @param {number[]} arr
  * @returns number
  */
@@ -39,7 +48,32 @@ export function sum(arr) {
   return arr.reduce((acc, v) => acc + v, 0);
 }
 
+/**
+ *
+ * @param {number[]} arr
+ * @returns number
+ */
+export function product(arr) {
+  return arr.reduce((acc, v) => acc * v, 1);
+}
+
 export function* enumerate(enumerable) {
   let i = 0;
   for (const item of enumerable) yield [i++, item];
 }
+
+/** @type {[number, number][]} */
+export const directNeighbors = [
+  [0, 1],
+  [0, -1],
+  [1, 0],
+  [-1, 0],
+];
+/** @type {[number, number][]} */
+export const diagNeighbors = [
+  [1, 1],
+  [1, -1],
+  [-1, -1],
+  [-1, 1],
+];
+export const neighbors = [...diagNeighbors, ...directNeighbors];
