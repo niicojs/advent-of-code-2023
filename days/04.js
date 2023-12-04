@@ -17,9 +17,10 @@ const data = getDataLines(day).map((l) =>
   let sum = 0;
   for (const [i, card] of enumerate(data)) {
     const [win, numbers] = card;
-    const points = numbers
-      .filter((n) => win.includes(n))
-      .reduce((p, c, idx) => (p ? p * 2 : 1), 0);
+    const ok = numbers.filter((n) => win.includes(n)).length;
+    const points = ok
+      ? 2 ** (numbers.filter((n) => win.includes(n)).length - 1)
+      : 0;
     sum += points;
   }
   consola.warn('part 1', sum);
