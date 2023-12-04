@@ -35,7 +35,7 @@ export function getDataLines(day) {
  * @param {string[]} lines
  * @returns string[][]
  */
-export function get2DArray(lines) {
+export function getGrid(lines) {
   return lines.map((l) => l.split(''));
 }
 
@@ -60,6 +60,14 @@ export function product(arr) {
 export function* enumerate(enumerable) {
   let i = 0;
   for (const item of enumerable) yield [i++, item];
+}
+
+export function* enumGrid(grid) {
+  for (const [y, row] of enumerate(grid)) {
+    for (const [x, cell] of enumerate(row)) {
+      yield { x, y, row, cell };
+    }
+  }
 }
 
 /** @type {[number, number][]} */

@@ -1,8 +1,8 @@
 import { consola } from 'consola';
 import {
-  get2DArray,
   getCurrentDay,
   getDataLines,
+  getGrid,
   neighbors,
   product,
 } from '../utils.js';
@@ -13,15 +13,15 @@ consola.wrapAll();
 consola.start('Starting day ' + day);
 
 const lines = getDataLines(day);
-const array = get2DArray(lines);
+const grid = getGrid(lines);
 // consola.log(array);
 
 const isInbound = (x, y) =>
-  y >= 0 && y < array.length && x >= 0 && x < array[0].length;
-const isNumber = (x, y) => !isNaN(+array[y][x]);
-const isEmpty = (x, y) => array[y][x] === '.';
-const isGear = (x, y) => array[y][x] === '*';
-const isNotAlone = (x, y) =>
+  y >= 0 && y < grid.length && x >= 0 && x < grid[0].length;
+const isNumber = (x, y) => !isNaN(+grid[y][x]);
+const isEmpty = (x, y) => grid[y][x] === '.';
+const isGear = (x, y) => grid[y][x] === '*';
+const isPart = (x, y) =>
   neighbors.some(
     ([i, j]) =>
       isInbound(x + i, y + j) &&
@@ -33,15 +33,15 @@ const findGears = (x, y) =>
 
 let gearsmap = {};
 let sum = 0;
-for (let y = 0; y < array.length; y++) {
-  for (let x = 0; x < array[0].length; x++) {
+for (let y = 0; y < grid.length; y++) {
+  for (let x = 0; x < grid[0].length; x++) {
     if (isNumber(x, y)) {
       let hasPart = false;
       let hasGear = [];
       let num = '';
       while (isNumber(x, y) && isInbound(x, y)) {
-        num += array[y][x];
-        if (isNotAlone(x, y)) {
+        num += grid[y][x];
+        if (isPart(x, y)) {
           hasPart = true;
           // part 2
           const gears = findGears(x, y);
