@@ -25,9 +25,13 @@ export function getRawData(day) {
  * @param {string} day
  * @returns string[]
  */
-export function getDataLines(day) {
+export function getDataLines(day, removeBlank = true) {
   const raw = getRawData(day);
-  return raw.split(/\r?\n/).filter((l) => !!l);
+  let lines = raw.split(/\r?\n/);
+  if (removeBlank) {
+    lines = lines.filter(Boolean);
+  }
+  return lines;
 }
 
 /**

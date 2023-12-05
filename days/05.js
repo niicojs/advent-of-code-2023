@@ -7,8 +7,79 @@ consola.wrapAll();
 consola.start('Starting day ' + day);
 
 const lines = getDataLines(day);
-consola.log(lines);
+const [first, ...rest] = lines;
 
-consola.warn('part 1', 'now yet');
+const config = {};
+const seeds = first.match(/(\d+)/g).map((n) => +n);
+
+const transformations = [];
+let currentmap = 'none';
+for (let x = 0; x < rest.length; x++) {
+  const name = rest[x].match(/([a-z]|\-)+/);
+  if (name) {
+    currentmap = name[0];
+    config[currentmap] = [];
+    transformations.push(currentmap);
+  } else {
+    config[currentmap].push(rest[x].match(/(\d+)/g).map((n) => +n));
+  }
+}
+
+const merge = (first, second) => {
+  const result = [];
+  for (const [dest1, start1, ln1] of first) {
+    for (const [dest2, start2, ln2] of second) {
+      if (start2 + ln2 <= start1 && start2 >= start1 + ln1) {
+        // pas d'overlap
+        result.push([dest2, start2, ln2]);
+      } else if (start2 + ln2 > start1) {
+        // merde
+      } else {
+      }
+    }
+  }
+};
+
+const truc2machin = (input, mappings) => {
+  for (const mapping of mappings) {
+    const [dest, start, ln] = mapping;
+    if (input >= start && input < start + ln) {
+      return dest + (input - start);
+    }
+  }
+  return input;
+};
+
+const transform = (input) => {
+  let location = input;
+  for (let t of transformations) {
+    location = truc2machin(location, config[t]);
+  }
+  return location;
+};
+
+// part 1
+{
+  let result = Number.MAX_SAFE_INTEGER;
+  for (const input of seeds) {
+    result = Math.min(result, transform(input));
+  }
+
+  consola.warn('part 1', result);
+}
+
+// part 2
+{
+  let result = Number.MAX_SAFE_INTEGER;
+  for (let i = 0; i < seeds.length; i += 2) {
+    const start = seeds[i];
+    const ln = seeds[i + 1];
+    for (let x = start; x < start + ln; x++) {
+      result = Math.min(result, transform(x));
+    }
+  }
+
+  consola.warn('part 2', result);
+}
 
 consola.success('Done.');
