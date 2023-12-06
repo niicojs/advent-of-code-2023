@@ -89,3 +89,10 @@ export const diagNeighbors = [
   [-1, 1],
 ];
 export const neighbors = [...diagNeighbors, ...directNeighbors];
+
+export function chunk(arr, len) {
+  arr = [...arr];
+  return [...Array(Math.ceil(arr.length / len))].map((_, i) =>
+    arr.slice(i * len, (i + 1) * len)
+  );
+}

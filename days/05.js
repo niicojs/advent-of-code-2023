@@ -25,21 +25,6 @@ for (let x = 0; x < rest.length; x++) {
   }
 }
 
-const merge = (first, second) => {
-  const result = [];
-  for (const [dest1, start1, ln1] of first) {
-    for (const [dest2, start2, ln2] of second) {
-      if (start2 + ln2 <= start1 && start2 >= start1 + ln1) {
-        // pas d'overlap
-        result.push([dest2, start2, ln2]);
-      } else if (start2 + ln2 > start1) {
-        // merde
-      } else {
-      }
-    }
-  }
-};
-
 const truc2machin = (input, mappings) => {
   for (const mapping of mappings) {
     const [dest, start, ln] = mapping;
@@ -74,6 +59,7 @@ const transform = (input) => {
   for (let i = 0; i < seeds.length; i += 2) {
     const start = seeds[i];
     const ln = seeds[i + 1];
+    consola.log(start, ln);
     for (let x = start; x < start + ln; x++) {
       result = Math.min(result, transform(x));
     }
