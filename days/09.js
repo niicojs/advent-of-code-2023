@@ -14,5 +14,6 @@ consola.log(lines);
 
 consola.warn('part 1', 'now yet');
 
-// submit(new Date().getFullYear(), day, 1, '')
+// await submit({ day, level: 2, answer: '' });
+
 consola.success('Done.');

@@ -96,3 +96,14 @@ export function chunk(arr, len) {
     arr.slice(i * len, (i + 1) * len)
   );
 }
+
+const gcd = (x, y) => (!y ? x : gcd(y, x % y));
+const _lcm = (x, y) => (x * y) / gcd(x, y);
+/**
+ *
+ * @param {number[]} arr
+ * @returns number[]
+ */
+const lcm = (arr) => {
+  return arr.reduce((a, b) => _lcm(a, b));
+};
