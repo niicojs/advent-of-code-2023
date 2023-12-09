@@ -2,8 +2,6 @@ import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { consola } from 'consola';
 
 export async function submit({ year, day, level, answer }) {
-  consola.log(`Sending answer : ${answer}`);
-
   if (!year) year = new Date().getFullYear();
   if (!level) level = 1;
 
@@ -14,6 +12,7 @@ export async function submit({ year, day, level, answer }) {
   const wrong = incorrect[`${day}-${level}`] || [];
   if (wrong.includes(answer)) {
     consola.error('Réponse incorrect et déjà envoyée.');
+    return false;
   }
 
   const url = `https://adventofcode.com/${year}/day/${+day}/answer`;

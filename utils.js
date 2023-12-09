@@ -6,7 +6,8 @@ import path from 'path';
  * @returns string
  */
 export function getCurrentDay() {
-  return path.parse(process.argv[1]).name;
+  const file = path.parse(process.argv[1]).name;
+  return file.match(/^(\d+)/)[1];
 }
 
 /**
@@ -104,6 +105,6 @@ const _lcm = (x, y) => (x * y) / gcd(x, y);
  * @param {number[]} arr
  * @returns number[]
  */
-const lcm = (arr) => {
+export const lcm = (arr) => {
   return arr.reduce((a, b) => _lcm(a, b));
 };

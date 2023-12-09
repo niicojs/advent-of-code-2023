@@ -1,6 +1,9 @@
 import { consola } from 'consola';
+import { config } from 'dotenv';
 import { enumerate, getCurrentDay, getDataLines } from '../utils.js';
+import { submit } from '../aoc.js';
 
+config();
 const day = getCurrentDay();
 
 consola.wrapAll();
@@ -48,6 +51,7 @@ for (const [i, game] of enumerate(games)) {
 }
 
 consola.warn('part 1', sum);
+// await submit({ day, level: 1, answer: sum });
 
 let power = 0;
 for (const [i, game] of enumerate(games)) {
@@ -63,10 +67,10 @@ for (const [i, game] of enumerate(games)) {
     min.green = Math.max(min.green, tirage.green);
     min.blue = Math.max(min.blue, tirage.blue);
   }
-  consola.log(id, min.red, min.green, min.blue);
   power += min.red * min.green * min.blue;
 }
 
 consola.warn('part 2', power);
+// await submit({ day, level: 2, answer: power });
 
 consola.success('Done.');
