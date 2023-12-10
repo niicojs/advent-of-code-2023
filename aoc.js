@@ -5,7 +5,7 @@ export async function submit({ year, day, level, answer }) {
   if (!year) year = new Date().getFullYear();
   if (!level) level = 1;
 
-  let incorrect = [];
+  let incorrect = {};
   if (existsSync('incorrect.json')) {
     incorrect = JSON.parse(readFileSync('incorrect.json', 'utf-8'));
   }

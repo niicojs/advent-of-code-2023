@@ -46,6 +46,17 @@ export function getGrid(lines) {
 
 /**
  *
+ * @param {any[][]} grid
+ * @param {number} x
+ * @param {number} y
+ * @returns boolean
+ */
+export function inGridRange(grid, x, y) {
+  return y >= 0 && y < grid.length && x >= 0 && x < grid[0].length;
+}
+
+/**
+ *
  * @param {number[]} arr
  * @returns number
  */
@@ -108,3 +119,13 @@ const _lcm = (x, y) => (x * y) / gcd(x, y);
 export const lcm = (arr) => {
   return arr.reduce((a, b) => _lcm(a, b));
 };
+
+export function deepEqual(a, b) {
+  if (typeof a !== "object") {
+      return a === b;
+  }
+  return (
+      Object.keys(a).length === Object.keys(b).length &&
+      Object.entries(a).every(([k, v]) => deepEqual(v, b[k]))
+  );
+}
