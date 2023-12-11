@@ -47,7 +47,7 @@ consola.log('stars', stars.length);
 consola.log('emptyRows', emptyRows);
 consola.log('emptyCols', emptyCols);
 
-const expansion = 1000000 - 1;
+const expansion = 1000000 - 1; // (2-1) for part 1
 const distance = ([a1, b1], [a2, b2]) => {
   const [x1, x2] = [a1, a2].toSorted((a, b) => a - b);
   const [y1, y2] = [b1, b2].toSorted((a, b) => a - b);
