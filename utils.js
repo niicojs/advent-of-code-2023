@@ -121,11 +121,24 @@ export const lcm = (arr) => {
 };
 
 export function deepEqual(a, b) {
-  if (typeof a !== "object") {
-      return a === b;
+  if (typeof a !== 'object') {
+    return a === b;
   }
   return (
-      Object.keys(a).length === Object.keys(b).length &&
-      Object.entries(a).every(([k, v]) => deepEqual(v, b[k]))
+    Object.keys(a).length === Object.keys(b).length &&
+    Object.entries(a).every(([k, v]) => deepEqual(v, b[k]))
   );
+}
+
+export function memoize(func, resolver = (...args) => JSON.stringify(args)) {
+  const cache = new Map();
+  return function (...args) {
+    const key = resolver.apply(this, args);
+    if (cache.has(key)) {
+      return cache.get(key);
+    }
+    const result = func.apply(this, args);
+    cache.set(key, result);
+    return result;
+  };
 }

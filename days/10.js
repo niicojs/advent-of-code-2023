@@ -120,21 +120,25 @@ const findLoop = (start) => {
 };
 
 const print = (path) => {
+  const nice = {
+    '-': '─',
+    '|': '│',
+    J: '┘',
+    F: '┌',
+    L: '└',
+    7: '┐',
+  };
   for (let y = 0; y < grid.length; y++) {
     let line = '';
     for (let x = 0; x < grid[y].length; x++) {
       const inpath = inPath(path, [x, y]);
-      const red = grid[y][x] === 'I';
       if (inpath) line += '\x1b[33m';
-      if (red) line += '\x1b[31m';
       if (x === start[0] && y === start[1]) {
         line += 'S';
-      } else if (grid[y][x] === ' ') {
-        line += 'O';
       } else {
-        line += grid[y][x];
+        line += nice[grid[y][x]] || grid[y][x];
       }
-      if (inpath || red) line += '\x1b[0m';
+      if (inpath) line += '\x1b[0m';
     }
     consola.log(line);
   }
@@ -147,6 +151,7 @@ print(loop);
 
 consola.warn('part 1', (loop.length - 1) / 2);
 
+// https://en.wikipedia.org/wiki/Shoelace_formula
 const lacet = (path) => {
   let res = 0;
   for (let i = 0; i < path.length; i++) {
@@ -158,6 +163,8 @@ const lacet = (path) => {
 };
 
 const area = lacet(loop);
+
+// https://en.wikipedia.org/wiki/Pick%27s_theorem
 const pick = Math.ceil(area - loop.length / 2 + 1);
 
 consola.warn('part 2', pick);
