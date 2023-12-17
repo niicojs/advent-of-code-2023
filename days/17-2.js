@@ -1,7 +1,9 @@
 import { config } from 'dotenv';
 import { consola } from 'consola';
+import Heap from 'heap';
 import {
   directNeighbors,
+  formatElapsedTime,
   getCurrentDay,
   getDataLines,
   getGrid,
@@ -15,6 +17,7 @@ const day = getCurrentDay();
 
 consola.wrapAll();
 consola.start('Starting day ' + day);
+const start = new Date().getTime();
 
 const lines = getDataLines(day);
 const grid = getGrid(lines).map((l) => l.map((c) => +c));
@@ -38,12 +41,11 @@ const key = (o) => JSON.stringify(o);
 const find = () => {
   const done = new Map();
   const good = [];
-  const todo = [{ path: [[0, 0]], pos: [0, 0], dir: [1, 0], nb: 0, dist: 0 }];
+  const todo = new Heap((a, b) => a.dist - b.dist);
+  todo.push({ path: [[0, 0]], pos: [0, 0], dir: [1, 0], nb: 0, dist: 0 });
 
-  while (todo.length > 0) {
-    let { path, pos, dir, nb, dist } = todo
-      .sort((a, b) => a.dist - b.dist)
-      .shift();
+  while (todo.size() > 0) {
+    let { path, pos, dir, nb, dist } = todo.pop();
     const [x, y] = pos;
 
     if (x === grid[0].length - 1 && y === grid.length - 1 && nb >= 4) {
@@ -57,7 +59,7 @@ const find = () => {
         .filter(([i, j]) => i !== -dir[0] || j !== -dir[1])
         .filter(([, , a, b]) => inGridRange(grid, a, b))
         .filter(([i, j]) => {
-          if ((i === dir[0] && j === dir[1])) {
+          if (i === dir[0] && j === dir[1]) {
             // tout droit
             return nb < 10;
           } else {
@@ -87,6 +89,7 @@ const { path, dist } = find();
 print(path);
 
 consola.warn('result', dist);
+consola.success('Elapsed:', formatElapsedTime(start - new Date().getTime()));
 
 // await submit({ day, level: 2, answer: dist });
 

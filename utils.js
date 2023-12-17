@@ -143,4 +143,23 @@ export function memoize(func, resolver = (...args) => JSON.stringify(args)) {
   };
 }
 
-export const inPath = (path, [x, y]) => path.some(([i, j]) => i === x && j === y);
+export const inPath = (path, [x, y]) =>
+  path.some(([i, j]) => i === x && j === y);
+
+export const formatElapsedTime = (elapsed) => {
+  const diff = Math.abs(elapsed);
+
+  const minutes = Math.floor(diff / 60 / 1000) % 60;
+  const seconds = Math.floor((diff / 1000) % 60);
+  const milliseconds = Math.floor(diff % 1000);
+
+  let result = '';
+  if (minutes > 0) {
+    result += `${minutes.toString().padStart(2, 0)}min `;
+  }
+  if (seconds > 0) {
+    result += `${seconds.toString().padStart(2, 0)}s `;
+  }
+
+  return result + `${milliseconds.toString().padEnd(3, 0)}ms`;
+};
