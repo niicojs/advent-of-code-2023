@@ -89,8 +89,8 @@ export function* enumGrid(grid) {
 /** @type {[number, number][]} */
 export const directNeighbors = [
   [0, 1],
-  [0, -1],
   [1, 0],
+  [0, -1],
   [-1, 0],
 ];
 /** @type {[number, number][]} */
@@ -142,3 +142,5 @@ export function memoize(func, resolver = (...args) => JSON.stringify(args)) {
     return result;
   };
 }
+
+export const inPath = (path, [x, y]) => path.some(([i, j]) => i === x && j === y);
