@@ -1,7 +1,7 @@
 import { config } from 'dotenv';
 import { consola } from 'consola';
-import { getCurrentDay, getDataLines } from '../utils.js';
-import { submit } from '../aoc.js';
+import { getCurrentDay, getDataLines } from '../../utils.js';
+import { submit } from '../../aoc.js';
 
 config();
 const day = getCurrentDay();

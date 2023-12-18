@@ -8,6 +8,7 @@ import {
   getDataLines,
   getGrid,
   inGridRange,
+  lacet,
 } from '../utils.js';
 
 config();
@@ -152,16 +153,6 @@ print(loop);
 consola.warn('part 1', (loop.length - 1) / 2);
 
 // https://en.wikipedia.org/wiki/Shoelace_formula
-const lacet = (path) => {
-  let res = 0;
-  for (let i = 0; i < path.length; i++) {
-    const [x1, y1] = path[i];
-    const [x2, y2] = path[(i + 1) % path.length];
-    res += x1 * y2 - x2 * y1;
-  }
-  return Math.abs(res) / 2;
-};
-
 const area = lacet(loop);
 
 // https://en.wikipedia.org/wiki/Pick%27s_theorem

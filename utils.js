@@ -6,8 +6,11 @@ import path from 'path';
  * @returns string
  */
 export function getCurrentDay() {
-  const file = path.parse(process.argv[1]).name;
-  return file.match(/^(\d+)/)[1];
+  let file = path.parse(path.dirname(process.argv[1])).name;
+  if (!file.match(/^(\d+)/)) {
+    file = path.parse(process.argv[1]).name;
+  }
+  return file.match(/^(\d+)/)[0];
 }
 
 /**
@@ -16,9 +19,13 @@ export function getCurrentDay() {
  * @returns string
  */
 export function getRawData(day) {
-  let inputs = '../inputs';
-  if (!existsSync(inputs)) inputs = './inputs';
-  return readFileSync(path.join(inputs, day + '.txt'), 'utf8');
+  let file = [
+    path.join(path.dirname(process.argv[1]), './input.txt'),
+    path.join(path.dirname(process.argv[1]), day + '.txt'),
+    path.join('./inputs', day + '.txt'),
+  ].find((p) => existsSync(p));
+
+  return readFileSync(file, 'utf8');
 }
 
 /**
