@@ -130,6 +130,16 @@ export function deepEqual(a, b) {
   );
 }
 
+export function shallowEqual(a, b) {
+  if (typeof a !== 'object') {
+    return a === b;
+  }
+  return (
+    Object.keys(a).length === Object.keys(b).length &&
+    Object.entries(a).every(([k, v]) => v === b[k])
+  );
+}
+
 export function memoize(func, resolver = (...args) => JSON.stringify(args)) {
   const cache = new Map();
   return function (...args) {
@@ -141,6 +151,14 @@ export function memoize(func, resolver = (...args) => JSON.stringify(args)) {
     cache.set(key, result);
     return result;
   };
+}
+
+export function dist([x1, y1], [x2, y2]) {
+  return ((x2 - x1) ** 2 + (y2 - y1) ** 2) ** 0.5;
+}
+
+export function manhattan([x1, y1], [x2, y2]) {
+  return Math.abs(x1 - x2) + Math.abs(y1 - y2);
 }
 
 export const inPath = (path, [x, y]) =>
@@ -162,4 +180,14 @@ export const formatElapsedTime = (elapsed) => {
   }
 
   return result + `${milliseconds.toString().padEnd(3, 0)}ms`;
+};
+
+export const lacet = (path) => {
+  let res = 0;
+  for (let i = 0; i < path.length; i++) {
+    const [x1, y1] = path[i];
+    const [x2, y2] = path[(i + 1) % path.length];
+    res += x1 * y2 - x2 * y1;
+  }
+  return Math.abs(res) / 2;
 };
