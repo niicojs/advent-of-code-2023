@@ -1,7 +1,7 @@
 import { config } from 'dotenv';
 import { consola } from 'consola';
-import { formatElapsedTime, getCurrentDay, getDataLines } from '../../utils.js';
-import { submit } from '../../aoc.js';
+import { formatElapsedTime, getCurrentDay, getDataLines } from '../utils.js';
+import { submit } from '../aoc.js';
 
 config();
 const day = getCurrentDay();
@@ -14,7 +14,7 @@ const lines = getDataLines(day);
 consola.log(lines);
 
 const answer = 0;
-consola.warn('result', answer);
+consola.warn('Result:', answer);
 
 consola.success('Elapsed:', formatElapsedTime(start - new Date().getTime()));
 
