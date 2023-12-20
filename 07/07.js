@@ -1,4 +1,3 @@
-import { writeFileSync } from 'fs';
 import { consola } from 'consola';
 import { enumerate, getCurrentDay, getDataLines } from '../utils.js';
 
