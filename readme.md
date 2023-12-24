@@ -1,4 +1,4 @@
-# [advent-of-code-2023](https://adventofcode.com/)
+# [advent-of-code-2023](https://adventofcode.com/2023)
 
 | Day | Ok   |
 | --- | ---- |
@@ -25,3 +25,4 @@
 | 21  | ✅✅ |
 | 22  | ✅✅ |
 | 23  | ✅✅ |
+| 24  | ✅✅ |
