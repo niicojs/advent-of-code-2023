@@ -1,0 +1,1477 @@
+digraph G {
+rcq-> { vmq txr rbt sbd }
+qvj-> { vmq zhs vnt pxn xkl }
+bpj-> { vmq rxl rtn dgr gkd }
+vmq-> { rcq qvj bpj mxr }
+gph-> { fgc tjb ctq fng }
+fgc-> { gph mtl trv rhp }
+jnf-> { cgg ddp pzd xlz bfn tjh }
+fmh-> { cgg mhb kcj qgv }
+pbf-> { cgg fms gfd mnt }
+tmm-> { cgg prf vrt vfp }
+qml-> { cgg qjf kxl mhf }
+cgg-> { jnf fmh pbf tmm qml }
+pvl-> { ghp rfb lzc tsd ssc hnk fvj }
+ghp-> { pvl vlh fng nbk }
+zcx-> { fbh mzq jph bpx }
+fbh-> { zcx cnf pvc zqj }
+vvb-> { xmk zpn tkv bmx }
+fgk-> { xmk pkl qvm zdr rgj }
+prt-> { xmk sjs xqm fxn }
+dkd-> { xmk pdh gkh mjk pzd bct }
+qcc-> { xmk tlr hxb bgt vtn }
+hqj-> { xmk rbg kxk fpc }
+xmk-> { vvb fgk prt dkd qcc hqj pnf }
+zvz-> { jkl kvt bct kpk vfx zdx }
+jkl-> { zvz jbt zqc lrf }
+msc-> { zsx hkj qcx pxg nvs }
+jpr-> { zsx jzc fnk hkq lfq gnz }
+qmq-> { zsx chq drg fpk lsf }
+zsx-> { msc jpr qmq dzk }
+qlc-> { cdf bjt gcr nkz nbr hfh cgv }
+mtk-> { cdf ctm lnv chz phj }
+bnq-> { cdf cnf xnq ddd ncv }
+cdf-> { qlc mtk bnq ccm }
+qpb-> { knq xls vch kpt jgx qmh gmv }
+knq-> { qpb zbp dtr dkr }
+php-> { dhd ktq lpv bgt qgv }
+dhd-> { php ztj jcv tvk }
+jgz-> { snc flc rxn llr }
+vnf-> { snc vvp vfh zmj dkr sxb tsl }
+cxd-> { snc szh rhb kgp }
+snc-> { jgz vnf cxd bln }
+jnh-> { tgf ptf psc kps }
+chp-> { tgf cdx fpq hck }
+tgf-> { jnh chp bpx ttn }
+pvb-> { snt cpj cbt jkv }
+nlp-> { snt gcm cdv nfn bmt }
+fhl-> { snt ghj dhj ftj ggg }
+snt-> { pvb nlp fhl szt }
+kcj-> { flp pvv hkj fmh frs bmx }
+flp-> { kcj mlg dnm bth }
+mcl-> { xvr kqv ksg ljj tjs szr tft dtk lnd }
+xjs-> { xvr plg svs xgz }
+dfg-> { xvr mrl kpq shh }
+xvr-> { mcl xjs dfg zqj }
+kxk-> { xsx zjt hqj xhg kpk }
+dxr-> { xsx rhf qlz vrz }
+jxx-> { xsx fbc kmf qdp vpc }
+std-> { xsx qtz bkm bcz }
+xdz-> { xsx sbd dxg zvb }
+xsx-> { kxk dxr jxx std xdz }
+bpq-> { cnf rfb hnt vhj }
+jvb-> { cnf srq jgc fth vmj }
+cnf-> { fbh bpq bnq jvb }
+pjm-> { xtt rkd qzc qvm pxg }
+klj-> { xtt bcm llg plj frs }
+xtt-> { pjm klj gcv gxs }
+rlp-> { kpf gnn mgl lvd mrd blm }
+mrn-> { kpf rpj dvr vsd }
+kpf-> { rlp mrn rpp stp tnt }
+fjp-> { vns gkd zph btl }
+ksm-> { vns ksz mmz pmn }
+vns-> { fjp ksm hbl cdb }
+jpf-> { ztj qjc lpd vzr }
+nkr-> { ztj vxq pph blf ssl xzg vxj }
+ztj-> { jpf dhd nkr plk }
+sth-> { tlr qtv lsj nnl }
+jdj-> { tlr mpf kbl xrp }
+njk-> { tlr tgh xdp gmn }
+tlr-> { sth jdj njk qcc mdh czz }
+cvn-> { qkx jfl rhf cnj }
+qkx-> { cvn qbn zcf lgg dcl gvr kch }
+zzm-> { njx njd vqx cbb tzk }
+njx-> { zzm lcx gvs thl }
+lkx-> { mnd phf dnb ztk mhz rnc }
+hnm-> { mnd nqb szr dvx xrn }
+qrg-> { mnd pjc snq ffr mzq }
+mnd-> { lkx hnm qrg fth }
+jdn-> { qtf dsc kkg lhh dxc }
+qtf-> { jdn rrc gzf gnz }
+ffd-> { zdq fht gqd pcr }
+gxc-> { zdq jds dpr bvx }
+tcr-> { zdq nzq rpp hgp }
+zdq-> { ffd gxc tcr nhq xdf }
+smc-> { nqb pvj shh xtq ndg }
+sbr-> { nqb fkx zfg mtq }
+nqb-> { smc hnm sbr szt rrl kvg }
+qsr-> { mzf lnv jpv rvk clq fmp }
+mzf-> { qsr css tll cgv }
+tdl-> { qnl gqt ptm ncq }
+qnl-> { tdl ptg dzk nnk }
+rhp-> { nhg rmh mrj fgc pzb }
+lxz-> { nhg nzx crz rnc tsl }
+ldd-> { nhg jxp nts dqj hjh jrz }
+xqx-> { nhg dlx kdk bbt zmj nzt }
+nhg-> { rhp lxz ldd xqx }
+mmv-> { jqn chm flc zbr bbt pxr }
+jqn-> { mmv zqz vll qls jxp szh }
+bhp-> { qtv mlg mcj fkr }
+hpt-> { qtv plv nnp mjn }
+dcl-> { qtv qkx gdh bqb }
+qtv-> { bhp hpt sth dcl xvs }
+ctm-> { mtk bnb mst fkx }
+dhx-> { nkq pvj hlj ghj bbj }
+nzh-> { nkq mrk rmh khg }
+hmx-> { nkq plg njj ffp }
+tct-> { nkq kvp jsg pbm mjp }
+grr-> { nkq hsl tbl mtl xdh }
+nkq-> { dhx nzh hmx tct grr }
+qls-> { nms sqt dcg jqn }
+jpn-> { nms jbj lzn rdh }
+ljj-> { nms sfp fdr mcl mkm cxq }
+nms-> { qls jpn ljj zdm }
+pvj-> { dhx smc ghj kgt }
+lzm-> { flm gvs tjs ggg }
+mrs-> { flm gxz cbx kmr tzk }
+flm-> { lzm mrs rvk vmh }
+lsd-> { plv jks ndp jpl cbl xtd }
+kxl-> { plv qml kqb kkg fzv gdl }
+plv-> { lsd kxl hpt gbf }
+cpd-> { qjf pqv zbx tkz }
+qjf-> { cpd qml pxk nbz }
+snq-> { zkl qrg shp jvp lnd }
+zkl-> { snq jpq ldq tzm }
+zkb-> { gjr csn vcf sxf }
+hpz-> { gjr mrz tbx lzd hph }
+csr-> { gjr fqz fnh glb kjj xtq }
+mfr-> { gjr nbr kml pfl }
+gjr-> { zkb hpz csr mfr }
+lcc-> { zfg zjp dtf dlx jgt }
+zfg-> { lcc vfq gkf sbr }
+pvd-> { xls znd fvl nsp tcc }
+vlm-> { xls knf rdf kkk }
+xls-> { pvd qpb vlm bsq }
+xnq-> { gbz bnq gpj tzm hrj vsd }
+gbz-> { xnq mkl rvk fmp }
+tdf-> { gnn nxj mcc vmh }
+dlx-> { gnn xqx bgr lcc gmv }
+gnn-> { rlp tdf dlx hjd }
+vqx-> { zjp zmj zzm mdz }
+fzb-> { zjp hhb bld hlx }
+vls-> { zjp kth khx frk }
+zjp-> { vqx lcc fzb vls xmv xrn dsl }
+hpl-> { fhc zpn qtk dmt gfd dbv }
+nvq-> { fhc vkd ffl dvq dkk xsd }
+fhc-> { hpl nvq jrp nkf }
+cmd-> { lhj rns dfv zmf }
+bkz-> { lhj lrr vlh pzp mbg }
+lhj-> { cmd bkz nhp qgj }
+dsk-> { jkb rpg pgj dvq }
+klh-> { jkb svt dkl kzh vrz }
+qbc-> { jkb ffg pjg plk }
+zkr-> { jkb xrp bfv vnt }
+jkb-> { dsk klh qbc zkr }
+zrd-> { jvm blp gjx xql fht }
+rtb-> { jvm tvz dgb sbm lqb }
+lnv-> { jvm qsr dhj mtk }
+xjr-> { jvm fxq mhs kmg fkx }
+qgj-> { jvm sfn xdf vnq skx lhj }
+jvm-> { zrd rtb lnv xjr qgj }
+znz-> { zpd vks cgv kgs }
+zqz-> { zpd tlc jqn ffh }
+pzf-> { zpd hlj vld mst }
+xll-> { zpd mtq vcb lrr }
+dgb-> { zpd brt rtb qqx }
+zpd-> { znz zqz pzf xll dgb }
+cbc-> { vqv qth xgz gpx }
+pbp-> { vqv lpz tzm djl }
+skx-> { vqv pgl qgj htq djl }
+vqv-> { cbc pbp skx qpx }
+xnt-> { zrv qpj qvq vsd }
+hlc-> { zrv lzd jkv msz }
+gfp-> { zrv css bbj kct }
+zrv-> { xnt hlc gfp jpv jzj }
+czb-> { kvh trm hft cqk }
+zzf-> { kvh mtx jjp krv }
+pmn-> { kvh cjl ksm hlf mnl }
+kvh-> { czb zzf pmn gsd }
+mgz-> { gcm fcz tjz gjs }
+mlt-> { gcm fck tpz htg rnx }
+dzl-> { gcm bsq bvx fdx }
+gcm-> { nlp mgz mlt dzl }
+xmv-> { gvk zjp nsp xss }
+xfc-> { gvk ncv ktc fxq nxc }
+rzh-> { gvk kjq hhb kpg }
+pfl-> { gvk txx mfr dhj }
+lzn-> { gvk tzg bhs jpn msz }
+gvk-> { xmv xfc rzh pfl lzn blm }
+mrd-> { bhg nqd vvp skl rlp }
+cms-> { bhg nxc rdh mjt mkm }
+hzx-> { bhg kvp kkh ddv vmh }
+kjq-> { bhg dtm rzh pvh }
+bhg-> { mrd cms hzx kjq }
+msj-> { fzq dsr znl qsn }
+qxz-> { fzq jfl lzh vbl lqs }
+ppf-> { fzq srs zmr cph }
+rtj-> { fzq pls ffg nvs }
+lzh-> { fzq qxz tbh qct }
+fzq-> { msj qxz ppf rtj lzh }
+kkk-> { hrm vlm trz lzq }
+qqx-> { hrm sbp ztk dgb }
+mjg-> { hrm cnx lcx kts }
+phg-> { hrm ccv vcf rfb rxn }
+hrm-> { kkk qqx mjg phg }
+rrc-> { qtf mpz dns vsx }
+ckk-> { jqc sjl rck bqb }
+qzf-> { jqc qcj trm ggn }
+mdv-> { jqc jll pdj qll pxl }
+jqc-> { ckk qzf mdv rsl }
+tqs-> { pfk dcm clx kct tpr }
+gmv-> { pfk xcz xcn qpb dlx }
+tjz-> { pfk lcx cnl mgz }
+lzq-> { pfk lpx mxb tqx xgr kkk }
+mdr-> { pfk nqd pxr rtr }
+gzh-> { pfk dvr kgt bld fnh }
+pfk-> { tqs gmv tjz lzq mdr gzh }
+jbg-> { vfq jlv tsd hhb }
+xss-> { vfq xmv mrz rfl zgb }
+vfq-> { zfg jbg xss mdc }
+kps-> { tvz rpq dnb jnh }
+htx-> { tvz jrk jxv hkz qdp }
+tvz-> { kps htx rtb nzn }
+cxq-> { dxv pkm zxm ljj }
+mrz-> { dxv hpz xss gqd }
+svs-> { dxv xjs bdk blp }
+hbb-> { dxv lrt jxl ngx }
+dxv-> { cxq mrz svs hbb jxv }
+shp-> { bbk snq ccm hcq }
+jlg-> { bbk tvp xnp dcg qxf jjg dbp }
+tvs-> { bbk cdh srb pnk }
+tcj-> { bbk dmk zqq jgl }
+bbk-> { shp jlg tvs tcj }
+qsk-> { hsl qxq jxv rrh }
+kmg-> { hsl vmz xjr ndg }
+vdn-> { hsl sxb cbt kvg zlf }
+hsl-> { qsk grr kmg vdn }
+dph-> { blb rxl bth cfd }
+fvk-> { blb mpf hgc nbz }
+bfv-> { blb chq zkr gmh }
+blb-> { dph fvk bfv xfz tbh pmf }
+flz-> { qtz nlh fbc kzm bxf }
+hbc-> { qtz ptn sfd hqt }
+tzd-> { qtz mhv vzg fxp ctt }
+hqp-> { qtz mcq qkl dxc }
+qtz-> { flz hbc tzd std hqp }
+rrd-> { rkd plh pjt qcj qrk jzm }
+clr-> { rkd xhg zhn jzm }
+rkd-> { rrd pjm clr mxr }
+mht-> { trm dpj lbp tqt }
+trm-> { czb mht fqd zgj qzf ljr }
+mhs-> { gfh bjt xjr vgx }
+tsp-> { gfh trz lmf cbb }
+dkn-> { gfh sjg lrh mjx }
+gfh-> { mhs tsp dkn shm }
+dct-> { jks mlk mzg mqc }
+trk-> { jks cdm lbp zrg }
+pqt-> { jks dlj cqm gfd }
+jks-> { lsd dct trk pqt }
+zch-> { tvp bcx kgc vlz }
+ggg-> { tvp lzm fhl vtx }
+tvp-> { jlg zch ggg mtt dnb mjx }
+pnz-> { pdj cbj rxl cpl }
+nzm-> { pdj nnp rnf qbz }
+pdj-> { pnz nzm ktq mdv }
+gkq-> { rbg hkj qll tvk }
+rbg-> { gkq hqj ghm hng ffc ptc plj }
+pxn-> { zbx mcz ths qvj hgc }
+mdk-> { zbx tkf svt gqx gdv }
+fxz-> { zbx gvx qhs zgg }
+zbx-> { pxn mdk fxz lln xfz ptg cpd }
+ctq-> { vgx xnp xdf khm gph lxv }
+vgx-> { ctq mhs vmz khx pzp }
+mgt-> { skc pkp fxq chz bjj clq }
+rdf-> { skc vlm tcb vhd }
+skc-> { mgt rdf gvf phj }
+frk-> { rlr qth czt cqd vls xrl }
+msp-> { rlr mrl qkb thn }
+mtc-> { rlr kbx vhj zjj jjg }
+tjs-> { rlr jmm lzm tzm mcl }
+rlr-> { frk msp mtc tjs }
+gjk-> { zpn rlk cvr czh pgv }
+zpn-> { hpl gjk vvb cbj }
+hft-> { czb fpv xqp sqm }
+knn-> { znd dsl bdk ffx }
+nbg-> { znd fds sqr vcf jmm gct }
+znd-> { pvd knn nbg qdf }
+mzq-> { zcx vll ksc ckm qrg }
+jph-> { zcx htg qpj rrl }
+cnx-> { mjg blp rmh cls }
+tvb-> { lxf zkv jmd tcs }
+sqg-> { lxf dff jlm qhl }
+zph-> { lxf vck czq fjp }
+lxf-> { tvb sqg zph bhm }
+fvm-> { drs jrp pxc ndq vlq bjp }
+drs-> { fvm rdb xtd cqk }
+psv-> { nrc fvg qkg mtm }
+rpq-> { nrc bgf qpj kps pbd }
+nrc-> { psv rpq hfh zpb nlf }
+bzc-> { dhk nfg mcj btl }
+dhk-> { bzc ndp hxb tzv bcz }
+pfx-> { dcq jnl dbp hcq }
+mbg-> { dcq bsl bbr bkz dhj xpz }
+dcq-> { pfx mbg nqd lvb }
+hrv-> { ktq dgf zmr lkl }
+ktq-> { pdj hrv php ggn }
+nts-> { kkj ckm ldd mjt }
+dvr-> { kkj bnl gzh mrn jsb dkp }
+kkj-> { nts dvr tbx mhq }
+nxj-> { xfl tdf phf cpj mxb }
+vcb-> { xfl xll rhn dmm mcc nzt }
+zld-> { xfl kgc dtf qnk rcp }
+xfl-> { nxj vcb zld tnt }
+pnk-> { fnn nzn rpj dcg tvs }
+fnn-> { pnk ktg bmt ffh }
+hxk-> { cgp bck dmv dsx }
+qjz-> { cgp sxv pdh vrt }
+bjd-> { cgp mzv xrr tvc hkn }
+cgp-> { hxk qjz bjd rsl xqp }
+fdx-> { lmf dcm dzl czm }
+lmf-> { fdx tsp ktc nlf }
+qkl-> { mcq hqp rbk hkn }
+xhg-> { mcq zsp ntb clr kxk }
+mcq-> { qkl xhg hqp fqd }
+lrf-> { hjc ndp csp jkl }
+jjp-> { hjc qjc plr zzf }
+hjc-> { lrf jjp fqd jsn }
+ngr-> { rzv fcg gmh kbz qrk dns }
+gxh-> { rzv mbn ptm fbl sqz }
+rzv-> { ngr gxh lcr vth }
+ltb-> { sfn tlf zgc znq }
+mtm-> { sfn smj gct nsp psv }
+cdd-> { sfn hzh spn zmf }
+kpg-> { sfn chx rzh tpn }
+sfn-> { ltb qgj mtm cdd kpg vtk }
+szr-> { ftj hnm mcl dld }
+ftj-> { szr fmm srq fhl }
+zdf-> { cph ngh srv lgr }
+qbz-> { cph hxb tjt mcf nzm }
+cph-> { zdf qbz ppf kfp rgj }
+jbj-> { tzg zrb jpn sxb }
+jpx-> { tzg kgj mrj dtk xms }
+dqz-> { tzg sdf ppb vtx }
+kgp-> { tzg rzq gvf xdf mps cxd }
+jgx-> { tzg gjx cbt bjt qpb }
+tzg-> { jbj jpx dqz kgp jgx lzn }
+kpq-> { xql vks hlj dfg }
+xql-> { kpq sdf mmx zrd }
+mjk-> { cvd dkd ngh sfd hcj }
+rtn-> { cvd gqt llm bpj }
+ssn-> { cvd tvh gzf plk }
+khq-> { cvd zdr gkd zgt }
+cvd-> { mjk rtn ssn khq }
+bcm-> { klj gmt pgv jgv }
+crz-> { pkt fgv lxz rrl xkp }
+spn-> { pkt nsb vsv cdd }
+pkt-> { crz spn mmx tnt }
+vkl-> { tlc brt lsh hph }
+bjt-> { tlc qlc zfh mhs jgx }
+tlc-> { vkl bjt zqz vfg cls }
+zqm-> { fdg jgc bnb rcp mnf }
+mtq-> { fdg xll ppr jrz vfh sbr }
+fdg-> { zqm mtq mqp xpd }
+srb-> { pcg gvv bxd tvs }
+pcg-> { srb pjc hxz cqd }
+mcz-> { pxn rlk pgj qgm kcs }
+qxf-> { vks nhp pvh jlg }
+vks-> { qxf kpq znz kml }
+qjr-> { jmh xhx hlf mdg }
+rpg-> { jmh dsk vkd dns }
+jmh-> { qjr rpg jsn rgb }
+pkm-> { cxq fcz fct fdr }
+ddd-> { bnq pkp sdf tkd }
+srq-> { jvb cpj ftj jhd }
+jgc-> { jvb zqm fpf tlf sqr vlz }
+jzm-> { jzr rrd rjq clr psp }
+rqz-> { jzr gbf ddp jlt rnf }
+zrg-> { jzr jll trk dzp bhf }
+vtj-> { jzr gxs plr zqs }
+zqn-> { jzr dbv nnd xkl }
+jzr-> { jzm rqz zrg vtj zqn pkl }
+jpz-> { qbn msn zxx ktj }
+nbn-> { qbn hms xdp pdr }
+qbn-> { jpz nbn qkx jdp }
+fgv-> { kvp crz cdx mhz lrt }
+kvp-> { hzx fgv tct vsd }
+xqm-> { qjm sjl grs txq prt }
+djj-> { qjm hzq dmh mnl }
+tlv-> { qjm kbl lpv srv }
+bnf-> { qjm pjv mzg vpc qpr qlz }
+qjm-> { xqm djj tlv bnf }
+fcc-> { rld jnq gdv ljr }
+lcv-> { rld qlv hzq bjr bck bgk }
+nnl-> { rld bvg prf sth }
+hlt-> { rld mzt hqt gdv }
+zsp-> { rld xhg mxr mnl }
+rld-> { fcc lcv nnl hlt zsp vzg }
+lmh-> { rsm vrh lvd rvd }
+czt-> { rsm kgj jgl frk czm ksc }
+rsm-> { lmh czt dtm clq }
+tpn-> { gxz fkv kpg qmh }
+gvn-> { gxz sph rht hjh }
+gxz-> { tpn mrs gvn dvx }
+djg-> { qrj rfl jgl dgd ghh pqf }
+dss-> { qrj xdh bzq vhd vsd }
+qrj-> { djg dss xzr hkz rbr }
+rfb-> { pvl bpq krp phg dfp }
+rns-> { sjg vrh cmd mjp }
+sjg-> { rns shr dkn kmh }
+cbz-> { xmp ffr gkf hcq rbq }
+fkx-> { xmp xjr sbr ctm }
+sqr-> { xmp nbg njj lvb jgc vqj }
+xmp-> { cbz fkx sqr hkx jzj }
+dcm-> { nzq fdx sfp tqs pvh }
+gvv-> { nzq rxn srb mjp }
+nzq-> { dcm tcr gvv lpq pbd }
+bxq-> { ksz zkv qlv dqv }
+ksz-> { bxq ksm dlj vrz }
+rck-> { sbs lbg rcm ckk xhm }
+dzj-> { sbs vnt ngh ddx nvs }
+mpf-> { sbs fvk jdj dkk ckj }
+sbs-> { rck dzj mpf dqn qhz }
+rnf-> { ndp rqz ksr nzm }
+ndp-> { dhk lsd rnf lrf }
+mhz-> { hnt fgv bbj lkx }
+jrz-> { hnt mtq ldd mcb }
+zgc-> { hnt ltb slp vcl }
+cgv-> { hnt znz qlc mzf }
+hnt-> { mhz jrz zgc bpq cgv }
+rbt-> { ndq fxg xbg rcq }
+ndq-> { rbt lff ffl fvm }
+mdh-> { tlr kvt ddp njb }
+xgn-> { dqn hhr lsj hlk }
+hkr-> { dqn kxh gvx zqs dfr }
+pjg-> { dqn tjj mbn qbc dxc }
+dqn-> { xgn hkr sbs pjg }
+hxb-> { dhk qcc qbz prd dnm bhf }
+kgc-> { lrr bsf zch zld }
+lrr-> { bkz kgc xll tsl }
+fds-> { nbg dnb jrf pbd }
+lmk-> { vfn mfn tvh kqb }
+pzn-> { vfn csp mcj bcz lpd kch }
+hkn-> { vfn fnk qkl bjd }
+ctj-> { vfn znb kxh nhv gcj }
+vfn-> { lmk pzn hkn ctj }
+sxb-> { vdn jbj xgr mdz vnf }
+ltr-> { xlv sfg khg fnh }
+mkm-> { xlv bsl bgg mhq ljj cms }
+xlv-> { ltr mkm nkd njd }
+qpj-> { zbp xnt jph rpq }
+zbp-> { knq qpj shr vtk }
+bzq-> { lcx dss nfn vtm }
+lcx-> { mjg njx bzq tjz }
+czq-> { jst prd zph dqk }
+gqx-> { jst jlr mdk dpj }
+cqm-> { jst pqt ptm ckb }
+nbv-> { jst kdz hhs kzh rhj }
+jst-> { czq gqx cqm nbv }
+fbv-> { grf lvb mqp pxr }
+grf-> { fbv knv gpx shm }
+vfx-> { xjv jmd zvz jfk }
+txr-> { xjv vpc rcq hmd kgv xtd ckj djp }
+pcm-> { xjv tzv dvq vzr }
+xjv-> { vfx txr pcm xqd xsd }
+hgv-> { svr hqr vkd mhh }
+ngh-> { svr mjk dzj zdf tkz }
+lrm-> { svr dmv cmk gnz }
+gdv-> { svr hlt jzc fcc gfd mdk }
+svr-> { hgv ngh lrm gdv }
+qcl-> { fpc tcs hhs zdx }
+fpc-> { qcl hqj vvz cpl qgm }
+dsr-> { gcv msj bdx dff fxp zhg lfk }
+mcj-> { gcv pzn bhp vrt bzc jbt }
+tvh-> { gcv rjq lmk ssn }
+gxs-> { gcv kpk xtt vtj }
+gcv-> { xtt dsr mcj tvh gxs tsh }
+ths-> { bhr zqs zmr pxn znj }
+bhr-> { ths fqd hcj kdd }
+gcr-> { qlc fvg njd vtk }
+nkz-> { qlc fqx xhc cls }
+lvd-> { rpp lmh rlp nqm }
+ktc-> { rpp nhq lmf cqd xfc }
+rpp-> { lvd tcr kpf ktc }
+gmt-> { vlg jqf kdc rcm xhm bcm }
+lfk-> { vlg psp kpk dsr }
+nnt-> { vlg xjg cnj mvv qcq jrp }
+kck-> { vlg sll xjz dqv }
+vlg-> { gmt lfk nnt kck }
+scs-> { xmj ccv gsf sbp zhk }
+vnq-> { xmj tkd vsv qgj blm trv }
+xmj-> { scs vnq nhp szh }
+jlv-> { qxx jbg lpn vhd dfv }
+jpq-> { qxx lzc rnh zkl tdr }
+qxx-> { jlv jpq lzc rgq }
+mgl-> { rlp flc hxz qkg }
+pmf-> { zhs gdh zdv blb cfd }
+zhs-> { pmf qvj bhm gmb xnf }
+sxc-> { chm dpr sfp shh }
+jvz-> { chm ltt knv fst }
+chm-> { sxc jvz mmv fxq }
+pkf-> { nfg dsc bhl blf mvr }
+gmb-> { nfg lfq sfl zhs }
+nfg-> { bzc pkf gmb gbf }
+rfl-> { djg plg vlh xss }
+jgl-> { djg czt tcj jmm tpz zvt }
+dgd-> { djg ckm pxq khx }
+ghh-> { djg tft czf hbg }
+fbc-> { jxx flz zbs tjh }
+kmf-> { jxx vzg xqd jbt dxc }
+qdp-> { jxx htx gbc jqj khg }
+vpc-> { jxx txr gzn bnf }
+czh-> { lfz lsg gtk gjk mcf }
+lfz-> { czh clc jff zbs }
+tjx-> { nzn cnh mcc shm }
+jgt-> { nzn srp shh lcc }
+nzn-> { tjx pnk jgt tvz }
+dmt-> { cbj hvx hpl fjh }
+czz-> { cbj tlr xgl lkl }
+cbj-> { dmt zpn pnz czz }
+kgv-> { ptn txr hvx vth }
+zqc-> { ptn jkl dzr jfk lsf }
+dvq-> { ptn pcm nvq dsk }
+ptn-> { kgv zqc dvq hbc tjh }
+ghx-> { jrk kpt gfx fvj }
+ffm-> { jrk nqs vxc stl fpf bln }
+vld-> { jrk brt pzf stc }
+jrk-> { ghx ffm vld htx }
+dbv-> { hqc vkf fcv jdf hpl kzm zqn bhf }
+gqt-> { hqc hdr fhp rtn tdl gvj }
+bgk-> { hqc lcv dfr tkv }
+hqc-> { dbv gqt bgk gvj }
+kth-> { vls kgs thn xtq }
+fps-> { lpz blp qns mps pxq tcc }
+mrk-> { lpz chz dvx nzh }
+lpz-> { fps pbp mrk rzq }
+fqd-> { bhr hjc mcq trm jdf }
+tsc-> { rzl fhp dnm srs }
+dkk-> { rzl mpf bjs nvq }
+zqs-> { rzl ths hkr vtj }
+rzl-> { tsc dkk zqs mfn }
+ckb-> { plh kdc bvh cqm }
+tzq-> { plh fnk svt cnj }
+lpv-> { plh bbs php tlv qct }
+ddj-> { plh jqf dqv mdg }
+plh-> { ckb rrd tzq lpv ddj tqt }
+zrb-> { jbj pzb mrl mrj }
+bdx-> { dsr zjt tlh sfl }
+hvx-> { lzt dmt nkk kgv }
+rgj-> { lzt fgk prf mhh cph }
+ggn-> { lzt xqp ktq jrp qzf }
+lzt-> { hvx rgj ggn xgq kxj }
+gkd-> { fjp khq phn clc bpj }
+ztk-> { bnl qqx xms lkx fng }
+bnl-> { ztk dvr kgt cbt }
+pls-> { rtj jzc phn dfh }
+dvv-> { xxh kzj ctl thn }
+dkp-> { xxh fct dvr qds ltm }
+zqq-> { xxh dnb tcj pjc sml }
+xxh-> { dvv dkp zqq qnk }
+xcz-> { kdk css rnh gmv ccm xhc }
+vdz-> { kdk nzx fck bjj npx }
+rgq-> { kdk qxx zkq mgn ggv }
+kdk-> { xcz xqx vdz rgq }
+jrp-> { fvm fhc nnt ggn }
+lpn-> { jlv pjc rvd nsb }
+bsf-> { kgc xzr tnt hsk }
+xtq-> { nqd kth smc csr }
+nqd-> { mdr xtq mrd dcq }
+qds-> { gpj lzc glb dkp }
+ddv-> { gpj crn hkz hzx }
+gpj-> { xnq qds ddv lpq }
+dsj-> { dmv qxb qqm tjc }
+dmv-> { dsj qrr bns dxp lrm hxk }
+txh-> { tjt qcq ktj tsj pxl }
+tjt-> { qbz txh ffg xjk }
+bth-> { gjt dph bgt pqv flp fnk }
+krv-> { gjt mkc ffc plj zzf }
+tzv-> { gjt dhk pcm dnf qgm }
+smd-> { gjt ntb hhr zhn }
+gjt-> { bth krv tzv smd }
+knf-> { vlm htg hgp gpx }
+ltt-> { bhs jvz mrl zjk zdm }
+cnl-> { bhs vxc hgp tjz }
+zkq-> { bhs mmx rgq pqf }
+bhs-> { ltt cnl lzn zkq }
+nsp-> { xmv pvd mph rvk mtm }
+mdg-> { lln xzl qgm ddj qjr ktj kch }
+dzr-> { lln fcg qpr zqc }
+cdm-> { lln bbs trk lsg djp }
+lln-> { mdg zbx dzr cdm }
+mtx-> { rxl tlh zzf jqr }
+rxl-> { dph mtx bpj pnz }
+ncd-> { gvs pbm bcx qdf }
+chx-> { gvs dtr bdk kpg }
+zmj-> { gvs vnf vqx xqx tsl }
+gvs-> { ncd chx njx zmj lzm }
+xdh-> { rtg dss grr ptt }
+fvg-> { rtg gcr ddc psv nsb sml }
+rtg-> { xdh fvg xgr kml }
+zjt-> { kxk bdx mhv rcm lpd }
+jlm-> { tkf jzf jzz lsf kfp sqg }
+hpd-> { tkf gbf lnp tff lnf gmn rxq hlk }
+btf-> { tkf bbs mmz zfl }
+tkf-> { jlm mdk hpd btf }
+rxq-> { bbs lsg nbz hpd }
+zbs-> { bbs fbc jlr lfz }
+bbs-> { rxq cdm lpv zbs btf }
+grs-> { jzz xqm fkr znj }
+bkm-> { jzz zgj kcs std cfd dsx }
+jzz-> { grs bkm gbf jlm }
+qqq-> { pjt gbm ljn dxg mlp vvz jzf }
+vxq-> { pjt nkr bzt dgf }
+sll-> { pjt kck djk kzm }
+pjt-> { rrd qqq vxq sll }
+ssl-> { lbg ddp nkr bjp }
+vbl-> { lbg qxz dnf vtb ljr }
+lbg-> { ssl rck vbl fxg nlb }
+zlf-> { jds htq vdn vmh }
+jds-> { gxc zlf bts tpz dql }
+fqj-> { plg hkx rdh jsb }
+plg-> { hmx fqj rfl dfp xjs ppr }
+fpq-> { lpq chp hgl fng }
+nqs-> { lpq ffm htq mcc }
+mxb-> { lpq mdc nxj lzq }
+lpq-> { gpj fpq nqs nzq mxb }
+jzc-> { jpr pls gdv kzh }
+jkg-> { jsg kpt zlh kts }
+xgr-> { jsg zlh sxb rtg lzq }
+jsg-> { jkg xgr tct khx }
+znl-> { msj qlv vnt kbl }
+qsn-> { msj drg zkc qzc mzp }
+vnt-> { zkv dzj qvj zkr znl ljr }
+llm-> { zkv hqr mnn rdb rtn }
+zkv-> { vnt llm bxq tvb }
+xzl-> { kdz nnp dmh mdg ncq pxk }
+vrt-> { kdz mcj rhf qjz tmm }
+kdz-> { xzl vrt nbv jlr }
+pqv-> { mhv hdt kxn zdv bth cpd xnf }
+dxg-> { mhv qqq rmp xdz }
+mhv-> { zjt tzd pqv dxg }
+lrh-> { vll cdh dkn pbd }
+vll-> { jqn mzq lrh pbm }
+cdh-> { pbm gbc lrh kml tvs }
+pbm-> { vll cdh ncd tct zdm }
+pzb-> { zrb vtm rhp srp }
+mrl-> { zrb ltt msp dfg msg gkf fmp }
+mrj-> { zrb jpx sfs rhp }
+vqj-> { gkk lqb pqf sqr }
+hjh-> { gkk mkl gvn ldd }
+xrl-> { gkk frk bts qpx }
+khg-> { gkk nsb nzh ltr qdp }
+rrh-> { gkk qsk tpr ggv }
+gkk-> { vqj hjh xrl khg rrh }
+vfg-> { css rsc qxq tlc }
+sqq-> { css kjb tcf rmh }
+kmr-> { css mrs sfj vtk }
+css-> { vfg sqq gfp xcz mzf kmr }
+tjj-> { pjg xdp vsx szz }
+bqb-> { zgj dcl ckk rgb }
+fbl-> { zgj vvz gxh vth }
+vtb-> { zgj rlv gkh vbl }
+zgj-> { bqb trm fbl bkm vtb }
+gqd-> { vrh rhn mrz ffd gvf }
+vrh-> { gqd rns lmh mtl pvh }
+cqk-> { rcm dkl drs szz czb }
+rcm-> { zjt rck cqk gmt }
+ljn-> { mlg qqq bxf rgb sjc }
+sxs-> { mlg bqt btt mvx }
+mlg-> { ljn bhp flp sxs }
+djk-> { sll rlk kpd qgf }
+kzm-> { sll kqb dbv flz }
+bcx-> { zch gps tcb ncd }
+slv-> { hqr lff qqm tvk }
+gqs-> { hqr nvs pvv gdl }
+hqr-> { slv gqs hgv llm }
+vkd-> { rpg hgv nvq fpk }
+dns-> { rpg sqm kcr ngr rrc }
+hdr-> { gqt mpz cvr mkg }
+fhp-> { gqt gvj tsc fxn }
+kgj-> { czt npx mnf jpx }
+nbs-> { lsg mbn rlk kbl ctf }
+lsg-> { nbs cdm czh rxq }
+cdx-> { chp lqr fgv pxq }
+phf-> { cdv lkx nxj tsd }
+qxq-> { cdv htg qsk vfg }
+cdv-> { phf qxq nlp dpr kjb }
+mst-> { txx tdr hsv pzf dvx ctm }
+txx-> { pfl mst ncv hsk }
+nnd-> { ntb hzq xrr zqn blf }
+ntb-> { smd xhg nnd htt kdd }
+lqb-> { txg fvs mjt rtb vqj }
+lsh-> { txg bld vkl vtm }
+txg-> { lqb lsh vmb nsb vpx }
+thr-> { lqr fvl mph fst }
+nzt-> { lqr xqx rgl vcb nbk }
+xsn-> { lqr dnb jcz rrl }
+lqr-> { cdx thr nzt xsn }
+bzt-> { vxq jrm mhf zhn qzc }
+hnf-> { nkf kzg qgf pxk }
+nkf-> { fhc hnf mfn qct }
+sbp-> { bsq scs qqx bhk }
+bsq-> { xls dzl sbp hnd fcz }
+qpx-> { nbr vqv ffx xrl }
+pgl-> { nbr tkd skx smg }
+nbr-> { mfr qpx pgl qlc }
+zdr-> { tgh khq cqs fgk mqc }
+qqm-> { tgh nlh dsj slv hmd }
+jqf-> { tgh gmt ddj gsd bvh }
+tgh-> { zdr qqm njk jqf }
+kdc-> { gmt jpl jbx ckb }
+xhm-> { gmt xvs rck bhl }
+dgf-> { kvt jqr vxq hrv }
+gdh-> { kvt dcl bjs pmf }
+psh-> { kvt msn xhx lrj tkh }
+kvt-> { dgf mdh gdh zvz psh }
+rjs-> { smj fqz jnl rbr }
+zxm-> { smj tft stp rhb cxq }
+smj-> { rjs mtm zxm sdf czm }
+hck-> { tbl chp cnh fdr }
+bgr-> { tbl dlx csn msz }
+tbl-> { hck bgr grr sfp }
+blf-> { mnv mpz nkr gsd pkf nnd }
+mnv-> { blf fxg tsh gcj }
+fxm-> { pph rxv dfq pmj }
+pph-> { nkr fxm lkl hcj zfl }
+hrj-> { rhv flc zst vhj tcc xnq }
+rhv-> { hrj qdf pcr shm }
+gtn-> { jrm gtk pgj mbk msn }
+jrm-> { gtn bzt pgv mcf }
+vpp-> { lff kxh hhr bkt svb }
+lff-> { vpp ndq slv bgt }
+dqj-> { hlj pkp jvp ldd nqm }
+xnl-> { hlj bgf rfq tbx }
+hlj-> { dqj xnl pzf dhx kpq shr }
+mnn-> { fcg llm ptm nlb }
+sbc-> { fcg cmk xhx gmn }
+fcg-> { dzr ngr mnn sbc svb }
+ctl-> { krp slp dvv jkv }
+krp-> { ctl rfb fst stp }
+jbx-> { vzm qjc kdc qct }
+jqr-> { vzm mtx dgf svb }
+vzm-> { jbx jqr zhg hbh }
+tbx-> { hpz qcr kkj knv xnl }
+ccv-> { phg scs trv rnx }
+fqz-> { rjs csr lls tzl }
+qcj-> { rrd llp qzf jcb }
+dnb-> { zqq xsn tvp kkb lkx fds kps }
+fxn-> { tps prt dzp fhp }
+tps-> { fxn cqs xqd vfp }
+ptf-> { jnh pvc qcr rrn }
+psc-> { jnh ldh fnh ttn }
+mbn-> { nbs pjg gxh xlk }
+znb-> { fxg ctj sjl njb lcr rlv }
+vlq-> { fxg pjv fvm ntf }
+fxg-> { znb lbg mnv rbt vlq }
+dmh-> { mzt xzl djj qtk ncc hjv }
+hsm-> { mzt zcf kbz ptg zhg }
+fkr-> { mzt grs bhp tjh }
+mzt-> { dmh hsm fkr hlt ckj }
+nbk-> { qth fck nzt gjs ghp }
+sqt-> { qth qls nqm ffp }
+qth-> { frk nbk sqt cbc }
+lnd-> { ldh clq mcl snq }
+ffx-> { ldh qpx xkj knn }
+ldh-> { lnd psc ffx lls vlz }
+sjl-> { xqm ckk znb tkv }
+gct-> { szt hxz nbg mtm }
+ngx-> { szt hbb kzs sfg }
+szt-> { nqb gct snt ngx }
+ldq-> { lvt kkh zkl rtr fth }
+bld-> { lvt fzb lsh gzh }
+mlp-> { lvt qqq hbg qcr }
+rgl-> { lvt vxc fct nzt }
+lvt-> { ldq bld mlp rgl }
+xgl-> { czz dgv jcb mhh }
+cnh-> { tjx ppr hck bmt jvh }
+csn-> { zkb bgr zrs zpm }
+xxn-> { jmd qhl ntf mqc }
+hbh-> { jmd bhf sxv vzm }
+jmd-> { xxn tvb hbh vfx }
+ddc-> { fvl dhj fvg mtt }
+lbn-> { fvl jnl bbr hbg rhb }
+fvl-> { ddc lbn thr pvd }
+lgg-> { ddp qkx hkj znj }
+ddp-> { mdh jnf lgg ssl rqz }
+mjp-> { tct rns gvv zmf }
+txq-> { qlv xqm qhs ffg }
+qlv-> { bxq znl txq lcv }
+htg-> { hnd knf qxq jph mlt }
+hzh-> { hnd cdd sph fkv }
+hnd-> { htg hzh bsq smg }
+mgn-> { ckm rgq rfh bbr }
+ckm-> { mgn nts dgd mzq }
+dzt-> { dtr sml jxl hlx }
+lxv-> { dtr dkr ctq rnx }
+dtr-> { knq chx dzt lxv }
+mhf-> { qml bzt jlt hlf }
+pcp-> { hsr mhb kfp sqm }
+qtk-> { hsr qjc qvm dmh hpl mnl }
+hsr-> { pcp qtk qcx lhh }
+gsf-> { nfn xkp scs kzs dmk }
+nfn-> { bzq gsf nlp fdr }
+gjx-> { jgx fmm zrd vtk }
+fnk-> { jpr jdp bvg tzq llg bth hkn qrn }
+hkq-> { jpr dgv ptg bht }
+mvx-> { nlh xqp sxs bht }
+sjc-> { nlh lfq ljn ptc }
+nlh-> { flz qqm mvx sjc }
+bvx-> { dzl sdf gxc gjs phj }
+bmt-> { rhn sbm cnh nlp fnn }
+zpm-> { rhn knv fqx csn }
+rhn-> { bmt zpm gqd vcb }
+rlk-> { djk nbs mcz gjk }
+ghm-> { mkg rbg bxf njb }
+bcz-> { mkg pzn fpk std dhk czp }
+mkg-> { ghm bcz xlm hdr }
+tcc-> { pvd fps gbk hrj }
+cjl-> { vkf fjb svt pmn }
+pdr-> { vkf kkg vgr nbn bht }
+kzg-> { vkf hnf kxh mzp }
+csp-> { vkf vck pzn lrf }
+vkf-> { cjl pdr kzg dbv csp }
+ffl-> { mpz ndq nvq dxp ncc }
+mpz-> { ffl rrc hdr blf cdb vfp }
+vcf-> { pkp phg zkb nbg }
+pkp-> { mgt vcf dqj ddd rzq zmf }
+vzr-> { dgv pcm jpf jfl }
+bfn-> { dgv bct jnf xhx lbp }
+qhz-> { dgv ctt gcj sbs }
+sfl-> { dgv sxv ffc xrr gmb bdx }
+dgv-> { vzr bfn hkq xgl qhz sfl }
+dhj-> { lnv ddc pfl mbg hnk fhl }
+gfx-> { xkj ghx skl lmv tzj }
+sbm-> { xkj rtb bmt tdr }
+xkj-> { gfx sbm pzp ffx }
+vlh-> { rfl ghp bkz njj hsv }
+flc-> { hrj mmv jgz mgl }
+tjd-> { kcr fcv cbl sqm }
+kcr-> { tjd bvg dns sgr }
+bjj-> { fxq jqj qns vdz mgt xpz }
+fxq-> { bjj mgt chm xjr xfc }
+qcr-> { tbx pvc ptf vcl mlp }
+phn-> { rsl gkd pls jsc }
+qsj-> { rsl mfn kpd srv }
+sjs-> { rsl prt ffc cpl }
+xlz-> { rsl jnf rhf ncc }
+rsl-> { jqc phn qsj sjs cgp xlz }
+llp-> { qcj hkj jsc tnj }
+tjc-> { btt sfd rmp dsj }
+btt-> { tjc mnm jlr sxs }
+sqz-> { hdt jpl mnm sxv gxh hgc }
+xbg-> { hdt gdl tlh hqt rbt }
+hdt-> { sqz pqv xbg jzf }
+gbm-> { qqq hqt pxl cfd }
+vvz-> { qqq fkg fpc fbl }
+qgv-> { fcv jbt fmh php }
+fcv-> { dbv qgv tjd vtn }
+qhl-> { xxn cks sqg kxn }
+ntf-> { xxn vlq jfl gkh tkz }
+xzg-> { pkl nkr mnm gdl }
+mlk-> { pkl dct nnk sqm }
+pkl-> { xzg jzr fgk mlk }
+jqj-> { bjj mdc zpb ksc qdp }
+tsd-> { phf jbg pvl xkp pxq }
+hhb-> { fzb rzh jbg tzj rrl }
+nxf-> { kqv vmb bgf npx xrn }
+ssc-> { kqv czf pvl xzr }
+jjg-> { kqv mtc jhd jlg }
+kqv-> { nxf ssc jjg mcl }
+pxr-> { zfh mmv mdr fbv }
+zfh-> { bjt pxr zst sfs }
+xkp-> { gsf tsd crz tcf }
+kzs-> { gsf ngx lls msg }
+nnp-> { xzl hpt nzm vtn }
+ncq-> { xzl tdl bzx dqk }
+dfr-> { zcf kzb hkr bgk }
+lcr-> { zcf gnz rzv znb }
+zcf-> { dfr hsm lcr qkx gvr }
+kbl-> { jdj nbs msn znl tlv }
+xzx-> { vck lfq dfh czp }
+tnj-> { vck dsc llp mzv }
+vck-> { xzx csp tnj zph mqc }
+vhj-> { dfp mtc bpq hrj }
+rrn-> { dfp mph ptf hgp }
+dfp-> { vhj rfb plg rrn }
+qhs-> { txq xlm bhl fxz }
+gbf-> { plv rqz jzz nfg hpd }
+hjd-> { zst rfh srp gnn hgl }
+ksc-> { zst czt jqj mzq }
+hbg-> { zst nhp mlp lbn ghh }
+zst-> { hjd ksc hrj zfh hbg }
+ksg-> { mdc bts bgg mcl bnb rrl }
+mdc-> { jqj ksg mxb vfq }
+gdl-> { xbg gqs kxl xzg }
+tlh-> { xbg mtx bdx cdb }
+hqt-> { xbg jsn hlt gbm hbc }
+fpv-> { hbl fkg hft svb }
+nlb-> { hbl mnn lbg psp }
+bzx-> { hbl ncq ptc kxj }
+hbl-> { fpv nlb bzx vns }
+plr-> { dsc chq vtj jjp }
+dsc-> { jdn pkf tnj plr hlk bmx }
+dmk-> { tcj tft bpg nzg gsf }
+qpr-> { gtk zxx dzr bnf }
+bjr-> { gtk ddx lcv qdv }
+gtk-> { czh qpr bjr gtn }
+cmk-> { dpj lrm jcv sbc rbk }
+dpj-> { mht cmk fms gqx }
+sxf-> { mqh lrt tlf zkb }
+zgb-> { mqh xss bgf tgb }
+zjk-> { mqh tpr ltt skl }
+tgb-> { mqh zgb rrl ptt }
+mqh-> { sxf zgb zjk tgb }
+htt-> { fkg kxh mnt ntb }
+tff-> { fkg frs jdf hpd }
+lsf-> { fkg jlm zdx qmq zqc }
+fkg-> { htt fpv vvz tff lsf }
+gzf-> { xfz sxv qtf ssn jcv }
+cks-> { xfz srv qhl qdv }
+xfz-> { gzf zbx cks blb }
+lzc-> { pvl jpq qxx qds }
+jnq-> { qjc fcc jsn vxj }
+qjc-> { jbx jjp jnq qtk jpf }
+kxh-> { kzg htt hkr ctt ctj vpp }
+mzp-> { kzg frs cpl qsn }
+gzn-> { pvv vpc czp xjk }
+qvm-> { pvv pjm qtk qrn fgk }
+pvv-> { gzn qvm kcj gqb qqk gqs vth }
+fnh-> { csr psc ltr gzh }
+clc-> { xlm gkd lfz ctt }
+qll-> { xlm vgr mdv gkq jff }
+qcq-> { xlm txh nnt mnm }
+xlm-> { qhs mkg clc qll qcq hng }
+zmr-> { dff ppf hrv ths xjk }
+dff-> { dsr sqg zmr hms }
+pdh-> { fjb rxv dkd qjz }
+kzb-> { fjb dfr kdd cvr rjq qrr }
+fjb-> { cjl pdh kzb jsc }
+knv-> { grf jvz zpm tbx }
+zhn-> { bzt clr smd qct hjv }
+qzc-> { bzt pjm qsn xjg }
+kfp-> { gqb jlm cph pcp }
+rhj-> { gqb llg nbv ctf }
+gqb-> { kfp rhj pvv pnf }
+hnq-> { jdp bvh zgt vrz }
+ptm-> { jdp hjv mnn gxh tdl cqm }
+jdp-> { hnq ptm qbn fnk }
+trz-> { gps kkk tsp rdh }
+gps-> { trz bcx tkd rzq }
+sxv-> { gzf sfl sqz qjz zgt hbh }
+gmh-> { ngr sqm bfv sgr }
+xvs-> { bvg vrm qtv xhm }
+bvg-> { kcr fnk xvs nnl }
+tcf-> { rxn gvf kct xkp sqq }
+rxn-> { phg tcf gvv jgz }
+mnf-> { dpr kgj zqm ncv jsb }
+dpr-> { mnf cdv gxc sxc }
+nzx-> { lxz vdz fdr pcr }
+lrt-> { hbb fgv sxf cls }
+mph-> { nsp thr rrn xpz }
+lbp-> { mht mvv trk bfn bmx }
+kbz-> { hsm ngr pjv qcx }
+qlz-> { jpl vxj pjv bnf dxr vgr }
+jpl-> { sqz lsd kdc qlz }
+tlf-> { ltb jgc bmq kzj sxf }
+jzf-> { jlm hdt qqq qqk jff }
+mcb-> { rfq fmm zqj jrz vtk }
+rfq-> { mcb bhk kts xnl }
+xjz-> { pzd kck bvh kdd }
+pzd-> { jnf xjz dkd mhb }
+ctt-> { kxh clc qhz tzd }
+thl-> { dtm njx mmx nsb }
+hgl-> { dtm qns fpq hjd }
+dfv-> { dtm cmd jlv ggv }
+dtm-> { rsm thl kjq hgl dfv }
+bxd-> { pvc gbk zjj cqd srp srb }
+ptt-> { pvc kgt fmp xdh pqf tgb }
+pvc-> { bxd ptt ptf fbh qcr }
+msn-> { psh kbl gtn jpz }
+xhx-> { psh qjr sbc rbk bfn }
+rxv-> { pdh sfd fxm mhh }
+fjh-> { chq qcx ctf dmt }
+chq-> { bfv fjh plr qmq }
+zxx-> { qpr fzv jpz xsd }
+tft-> { zxm ghh dmk mcl }
+gkh-> { dkd pgv ntf vtb }
+dcg-> { qls dmm pnk jlg }
+klf-> { nhq rfh czm dld }
+fst-> { nhq thr krp jvz rtr }
+nhq-> { ktc klf zdq fst }
+mkl-> { dtf gbz hjh jcz llr }
+dtf-> { lcc mkl zld smg }
+hpv-> { gbc glb rbr dld }
+gbc-> { hpv cdh sfp qdp }
+bts-> { jds xrl ksg bln }
+tkd-> { pgl gps vnq ddd ffh rnc }
+qqk-> { jzf pvv rvq bck }
+njj-> { hmx sqr vlh chz }
+gvx-> { cqs mzv hkr fxz }
+qxb-> { cqs qgf dsj mkc dzk }
+cqs-> { zdr gvx qxb tps }
+mzv-> { gvx bjd tnj xrp }
+qrn-> { hng qvm lgr fnk }
+hng-> { qrn rbg xlm lrj }
+jzj-> { ghj sfj mdz xmp zrv }
+njd-> { ghj gcr xlv zzm }
+ghj-> { dhx pvj fhl jzj njd }
+cpj-> { nxj srq qnk pvb ggv }
+bbj-> { mhz dhx gfp fpt ttn }
+tzk-> { hkx zzm mrs vcl }
+qdf-> { hkx hph mjt rhv znd ncd }
+hkx-> { xmp tzk qdf fqj }
+fht-> { ffd sfg zrd kmh }
+btl-> { srs gvr bhl fjp bzc }
+srs-> { btl ppf tvc szz tsc }
+qkg-> { fmm mgl psv mqq }
+fmm-> { gjx mcb qkg ftj ccm }
+jfl-> { qxz cvn ntf vzr }
+zjj-> { fck jnl bxd mtc xpd }
+fck-> { nbk mlt zjj vdz }
+zdv-> { zkc pqv pmf xdp }
+zkc-> { zdv qrk qsn vth }
+tcb-> { rdf bcx pzt vtx }
+kcs-> { hhr bkm mcz dxc }
+hhr-> { smd kcs vpp xgn }
+rnh-> { xcz zbr jpq qkb }
+mqq-> { rpj qkg jpv xms }
+gvf-> { rpj tcf cbx skc kgp jvh gqd }
+rpj-> { mrn pnk mqq gvf }
+rrg-> { zbr fpt fqx vpx }
+vsx-> { zbr tjj rrc bht }
+rhb-> { zbr lbn zxm cxd }
+zbr-> { mmv rrg vsx rhb rnh }
+mfn-> { lmk nkf qsj rzl }
+bqt-> { qrr fms sxs zdx }
+dfq-> { qrr fxm bns mjn }
+qrr-> { bqt dfq dmv kzb }
+bjp-> { ssl fvm rgb kpd }
+rjq-> { tvh tkh kzb jzm }
+kbh-> { pjv vxj mqc ckj }
+pjv-> { vlq kbh kbz bnf qlz }
+svt-> { tzq mdk klh cjl }
+cnj-> { tzq nnt mhb cvn }
+sfj-> { jxp kmr vvp jzj }
+sph-> { jxp gvn kkh hzh }
+jxp-> { sfj sph jqn ldd }
+ndg-> { hfh tpr smc kmg }
+khm-> { hfh sdf ctq kgs }
+hfh-> { ndg nrc khm qlc }
+nhp-> { xmj qxf lhj hbg }
+xjg-> { nnt qzc qgf rlv }
+mvv-> { nnt sbd lbp jgv }
+hhv-> { bhk mps cbx kjj kvg }
+hgp-> { bhk dmm rrn tcr knf cnl }
+bhk-> { hhv hgp sbp rfq }
+dbp-> { chz pfx nqk jlg }
+chz-> { mtk mgt dbp mrk njj }
+crn-> { vmb ddv tll znq jhd }
+qfs-> { vmb gjs vsv kgt hsk }
+vmb-> { nxf txg crn qfs }
+gjs-> { qfs bvx mgz nbk bpg }
+vsv-> { qfs vnq lmv spn }
+ctf-> { nbs tsh fjh rhj }
+drg-> { qmq jlr qsn jgv }
+htq-> { nqs jcz skx zlf }
+vxc-> { cnl rgl ffm dql vtm }
+pjc-> { zqq pcg lpn qrg }
+jxl-> { hbb hlx dzt msz }
+mnm-> { xzg btt qcq sqz }
+fqx-> { zpm xms rrg nkz }
+bhl-> { pkf qhs vzg xhm btl }
+sdf-> { smj ddd dqz xql khm bvx }
+bmq-> { lzd fvj bgg tlf }
+glh-> { lzd cbb vcl tqx }
+lzd-> { bmq glh hpz hlc mjx }
+bbt-> { xqx mmv kbx rvd }
+bpg-> { lpx dmk gjs zdm }
+rsc-> { lpx vfg bgg ccm }
+mtl-> { lpx fgc vrh sfs grr }
+lpx-> { bpg rsc mtl lzq }
+tll-> { crn bpx mzf vtx }
+znq-> { crn xpd ltb jhd }
+bgt-> { bth qcc php lff }
+xcn-> { ppr vmz gmv zpb }
+ppr-> { cnh mtq xcn plg pzp }
+kpd-> { jcb djk hms qsj bjp }
+jcb-> { kpd qcj xgl cfd }
+qgf-> { qxb hnf djk xjg }
+mkc-> { qxb krv tcs bjs }
+brt-> { vld vkl dgb rnc }
+rht-> { gvn kbx dql zvt }
+tlz-> { mtt blm pcr djl }
+czf-> { mtt ghh ssc rfh }
+mtt-> { tvp ddc tlz czf }
+rvq-> { qqk ddx lsj xgq tqt nnk }
+lsj-> { ddx sth xgn rvq }
+ddx-> { dzj lsj rvq bjr }
+fzv-> { sfd fxp zxx kxl }
+sfd-> { fzv hbc rxv mjk tjc }
+rzq-> { lpz pkp gps kgp }
+dtk-> { qns jpx mcl zrs }
+qns-> { hgl dtk bjj fps }
+pxc-> { fvm rmp plk vth }
+jlr-> { gqx kdz btt drg mbk lgr zbs }
+hjv-> { pgj ptm dmh zhn }
+pgj-> { dsk hjv mcz gtn }
+bgf-> { nxf rpq zgb xnl }
+nxc-> { jnl cms sfs xfc }
+jnl-> { zjj rjs lbn pfx nxc }
+bns-> { dmv dfq xkl gmn }
+kpt-> { fpt ghx jkg qpb }
+vmz-> { fpt vgx xcn kmg }
+qmh-> { fpt jpv qpb tpn }
+fpt-> { kpt vmz rrg qmh bbj }
+pxq-> { cdx tsd dgd fps zqj }
+kgt-> { bnl qfs ptt pvj gzh }
+clx-> { jmm tqs fpf xpz }
+jmm-> { tjs nbg jgl clx }
+mzg-> { mbk bnf jll dct zfl }
+czp-> { mbk qdv xzx prd dxp gzn bcz }
+mbk-> { gtn mzg czp jlr }
+vtn-> { fcv qcc nnp lnp }
+kqb-> { kxl kzm lmk rdb }
+tbh-> { lrj lzh blb kzh }
+nnk-> { lrj mlk pxg rvq qnl }
+lrj-> { tbh psh hng nnk }
+bgg-> { rsc ksg bmq mkm }
+sfp-> { ljj sxc tbl dcm gbc }
+cbl-> { hzq nhv tjd lsd }
+hzq-> { lcv nnd djj cbl }
+sbd-> { mvv xgq rcq xdz }
+bxf-> { ljn ghm hms tkz flz }
+srv-> { cks zdf qsj hcj tlv gmn }
+kkg-> { jdn pdr kxl zgt }
+mmx-> { zkq thl xql pkt }
+lfq-> { vrm xzx gmb jpr sjc }
+tsj-> { vrm jsc mcf txh }
+vrm-> { lfq tsj xvs xgq }
+hlk-> { mhb dsc xgn hpd }
+ncc-> { mhb ffl xlz dmh }
+mhb-> { pzd cnj hlk pcp fmh ncc }
+kbx-> { lvb rht bbt mtc }
+lvb-> { fbv sqr kbx dcq }
+mdz-> { bsl vqx sxb jzj }
+bsl-> { mbg mdz mkm nkd mjx }
+zlh-> { xgr ltm jkg kkb }
+dlj-> { tsh ksz pqt zgg }
+nhv-> { tsh ctj cbl prf }
+tsh-> { dlj mnv gcv nhv ctf }
+xnf-> { lnp zhs pqv jll }
+gcj-> { lnp mnv ctj qhz sgr }
+lnp-> { vtn xnf gcj hpd }
+fpf-> { jgc dmm ffm clx }
+dnf-> { tzv tvc vbl zfl }
+gbk-> { bxd tcc gpx vmj }
+cqd-> { bxd frk ktc pcg }
+srp-> { bxd jgt pzb hjd }
+djp-> { hkj txr dqk cdm }
+hkj-> { llp kcj djp lgg msc gkq }
+cvr-> { gjk kzb fms hdr }
+vzg-> { rld bhl tzd kmf }
+jlt-> { rqz xdp tvc mhf }
+nkk-> { bkt hvx zvb mjn }
+bkt-> { nkk vpp tvc xjk }
+dsx-> { rmp hxk ptc bkm }
+rmp-> { dsx tjc pxc dxg }
+rtr-> { mdr fst ldq gkf }
+nqm-> { sqt lvd hcq dqj }
+cbx-> { gvf hhv mrs tzl }
+jvh-> { gvf cnh mps xgz dsl }
+dzp-> { fxp dfh fxn zrg xkl }
+fxp-> { tzd dzp dsr fzv }
+ffc-> { sfl krv sjs rbg }
+ppb-> { slp ltm dqz vpx }
+slp-> { ppb zgc ctl sml tnt ttn kts }
+jcz-> { xsn tpz htq mkl }
+hmd-> { xqd txr lhh gnz qqm }
+xqd-> { hmd xjv tps dkl kmf }
+zgg-> { bct fxz sgr dlj }
+bct-> { dkd zvz zgg bfn }
+kxn-> { pqv qhl dfh ckj }
+jbt-> { jkl mcj qgv mvr kmf }
+cbt-> { vdn jgx bnl pvb }
+xlk-> { tkh mbn frs dzk }
+znj-> { tkh lgg grs ths }
+hlf-> { tkh qjr mhf pmn }
+tkh-> { xlk znj rjq hlf psh }
+tpz-> { mlt jgl jcz jds }
+szh-> { cxd jqn xmj bln }
+zvb-> { qrk rdb xdz nkk }
+qrk-> { zvb zkc ngr rrd }
+glb-> { qds csr hpv ktg }
+kml-> { rtg mfr vks cdh }
+ffp-> { sqt nkd bdk hmx }
+vvp-> { dql mrd vnf sfj }
+dql-> { rht vxc vvp jds }
+dsl-> { knn jvh stc zjp }
+njb-> { llg mdh qdv znb ghm }
+llg-> { njb rhj fnk klj tkv }
+fkv-> { xnp kkh tpn hzh }
+xnp-> { ctq jlg fkv rcp }
+zvt-> { ktg rht jgl hlx }
+ktg-> { glb fnn zvt jvp }
+ggv-> { rgq dfv rrh cpj }
+kkb-> { dnb zlh qvq rnx }
+npx-> { vdz kgj vhd nxf }
+pmj-> { fxm nvs xjk pxl }
+prd-> { czq hxb czp dgr kxj }
+dqk-> { czq ncq tqt djp }
+hph-> { kjb qdf vkl hpz }
+fct-> { kjb dkp rgl pkm }
+kjb-> { hph cdv sqq fct }
+vtm-> { bzq lsh vxc pzb }
+khx-> { vls vgx dgd jsg }
+hxz-> { pcg mgl gct rvk }
+dxp-> { dmv ffl czp kch }
+rhf-> { vrt dxr xlz cvn lgr }
+jsn-> { hqt hjc jmh jnq }
+vtx-> { nkd ggg tcb tll dqz }
+nkd-> { vtx ffp xlv bsl }
+xdf-> { ctq qgj kgp zdq }
+ptg-> { qnl hkq hsm zbx }
+skl-> { gfx mrd nzg zjk }
+nvs-> { gqs msc rtj pmj dzj }
+dnm-> { vgr hxb flp mmz tsc }
+vgr-> { pdr qll dnm qlz }
+qdv-> { njb bjr cks czp }
+xrr-> { tcs nnd sfl bjd }
+tcs-> { qcl tvb xrr mkc tkz }
+gsd-> { lkl kvh blf jqf }
+lkl-> { hrv czz gsd pph }
+xpd-> { rfh znq zjj fdg }
+rfh-> { klf xpd hjd mgn czf }
+jxv-> { qsk dxv htx kmh }
+jkv-> { bdk pvb ctl hlc thn }
+bdk-> { knn jkv ffp svs chx }
+dmm-> { hgp dcg vcb fpf }
+nlf-> { kkh lmf nrc nqk }
+kkh-> { nlf hzx fkv sph ldq }
+ktj-> { ffg jpz txh mdg }
+ffg-> { rtj ktj qbc txq tjt pnf }
+gvr-> { xqp btl qkx zcf }
+xqp-> { hft mvx cgp ggn gvr }
+vfh-> { vnf mtq jvp thn }
+blp-> { fps zrd svs cnx }
+mps-> { fps kgp hhv jvh }
+tqx-> { zpb stl glh lzq }
+mjt-> { zpb qdf nts lqb cms }
+zpb-> { jqj xcn tqx nrc mjt tjb }
+dkr-> { lxv knq vnf vlz tzl }
+bvh-> { jqf ckb xjz hnq }
+lnf-> { qcx lhh ksr hpd }
+qcx-> { kbz hsr lnf fjh msc }
+fpk-> { bcz qmq vkd mxr }
+sfs-> { mtl nxc zfh mrj }
+sqm-> { mlk hft pcp gmh dns tjd dkl }
+kdd-> { kzb xjz ntb bhr }
+pzt-> { bbr msg tcb dld }
+bbr-> { mgn pzt lbn mbg kvg }
+mnt-> { fms htt vfp pbf }
+fms-> { pbf cvr mnt dpj bqt }
+hms-> { nbn bxf kpd dff }
+stl-> { ffm kmh rdh tqx }
+pxz-> { qnk shr hlx djl }
+qnk-> { xxh cpj pxz zld }
+xgq-> { lzt sbd rvq vrm }
+lhh-> { hsr hmd lnf jdn }
+fcz-> { mgz pkm bsq shm }
+kpk-> { gxs zvz kxk lfk }
+bjs-> { mkc gdh jgv dkk }
+xrp-> { zkr bhm jdj mzv }
+jpv-> { qsr mqq zrv qmh }
+jll-> { mzg mdv xnf zrg }
+ptc-> { rbg bzx sjc dsx }
+xms-> { jpx fqx ztk mqq }
+plj-> { rbg krv klj vxj }
+stc-> { sfg nzg vld dsl }
+sfg-> { ngx ltr fht stc xhc }
+pzp-> { ppr vgx xkj bkz }
+frs-> { mzp tff klj kcj xlk }
+kjj-> { ltm hsv csr hhv }
+ltm-> { kjj zlh ppb dkp }
+jrf-> { fds nzg zmf zdm }
+xgz-> { tdr lls jvh cbc xjs }
+tdr-> { sbm jpq xgz mst }
+smg-> { rvd pgl hnd dtf }
+rvd-> { lpn lmh smg bbt }
+pxl-> { gbm pmj mdv txh }
+cpl-> { fpc sjs mzp pnz }
+pgv-> { jrm bcm gjk gkh gvj }
+gnz-> { hmd qtf jpr lcr lrm }
+jgv-> { mvv bcm drg bjs }
+rdb-> { zvb drs llm kqb }
+fvs-> { lls kct zrs lqb }
+lls-> { ldh kzs fqz fvs xgz tzl }
+ffh-> { hsv zqz fnn tkd hsk }
+hsv-> { kjj mst vlh ffh }
+stp-> { krp kpf zxm mhq }
+kct-> { tcf fvs gfp tqs mqp }
+mmz-> { ksm dnm rgb btf }
+pxg-> { msc pjm nnk bht }
+sgr-> { zgg gcj gmh kcr }
+vhd-> { dss rdf npx jlv }
+gfd-> { bck hpl bhm gdv pqt pbf }
+bck-> { gfd qqk hxk lcv }
+plk-> { ssn ztj pxc qbc }
+vxj-> { qlz nkr plj jnq kbh }
+qvq-> { vch xnt kkb hsk }
+jsb-> { vch fqj mnf dvr }
+vch-> { qvq jsb qpb bpx }
+hcj-> { jdf bhr srv pph mjk }
+jdf-> { dbv fqd hcj tff }
+xzr-> { qrj bsf ssc kzj }
+mcc-> { tdf tjx nqs vcb }
+hnk-> { shr pvl dhj mhq }
+shr-> { zbp pxz hnk hlj sjg }
+lmv-> { vsv gfx tjb vmj }
+fth-> { ldq rcp jvb mnd }
+rnx-> { mlt kkb lxv ccv }
+zhk-> { msg mqp qkb scs }
+msg-> { kzs zhk pzt mrl }
+ccm-> { fmm shp xcz cdf rsc zmf }
+xdp-> { tjj njk jlt zdv nbn dgr }
+mqc-> { dct vck kbh xxn zdr }
+tpr-> { tqs rrh zjk ndg }
+psp-> { ksr jzm nlb lfk }
+ksr-> { psp lnf rnf szz }
+dqv-> { gvj jsc kck ddj bxq }
+gvj-> { hqc gqt fhp dqv pgv }
+rbq-> { bnb rbr cbz fng }
+bnb-> { zqm ksg rbq ctm }
+fvj-> { bmq tzj ghx pvl }
+prf-> { tmm nhv rgj nnl }
+nsb-> { lpn spn fvg txg khg thl }
+hgc-> { pxk sqz pxn fvk }
+pxk-> { hnf hgc xzl qjf }
+llr-> { kzj jgz mkl rdh }
+kzj-> { dvv xzr llr tlf }
+hlx-> { jxl pxz fzb zvt dzt phj }
+tzj-> { fvj gfx hhb bpx }
+rrl-> { tgb xsn jph ksg nqb crz hhb }
+lqs-> { dfh qxz lgr kxj }
+dfh-> { pls lqs kxn xzx dzp }
+nqk-> { zqj trv dbp nlf }
+zqj-> { xvr nqk fbh pxq mcb }
+rcp-> { xnp zld fth zqm }
+zhg-> { hsm vzm dsr mjn }
+cbb-> { tsp zzm glh vmj }
+bhm-> { zhs gfd lxf xrp }
+rvk-> { gbz hxz nsp qsr flm }
+vcl-> { qcr glh zgc tzk }
+sml-> { dzt fvg zqq slp }
+mhh-> { jcv jfk hgv xgl rgj rxv }
+jcv-> { dhd mhh gzf cmk }
+fdr-> { ljj hck nzx pkm nfn xhc }
+tvc-> { srs dnf bkt bjd jlt }
+tzm-> { zkl pbp tjs xnq xrn }
+lpd-> { jpf pzn zjt mvr }
+jsc-> { tsj phn dqv llp fjb }
+zrs-> { fvs csn shh dtk }
+mcf-> { jrm czh qbz tsj }
+mvr-> { rgb lpd jbt pkf }
+rgb-> { jmh mvr ljn mmz bqb bjp }
+qkb-> { tjb msp rnh zhk }
+tjb-> { lmv gph zpb qkb kgs }
+tvk-> { rbk gkq dhd slv }
+rbk-> { cmk xhx tvk qkl }
+djl-> { pbp thn tlz skx pxz }
+bln-> { bts ffm snc szh }
+bpx-> { tgf vch tzj tll zcx }
+shh-> { ffr dfg zrs smc sxc jgt }
+hcq-> { ffr nqm cbz pfx shp }
+ffr-> { shh cbz qrg hcq }
+rlv-> { cdb znb xjg vtb }
+ljr-> { cdb vnt trm fcc vbl }
+cdb-> { rlv tlh ljr vns mpz }
+gkf-> { mrl rtr cbz zfg }
+jfk-> { pnf mhh zqc vfx }
+pnf-> { jfk gqb ffg xmk }
+czm-> { klf czt fdx smj }
+jvp-> { dqj snq ktg vfh }
+clq-> { qsr mgt rsm lnd }
+svb-> { fcg jqr fpv vpp }
+dzk-> { qnl qxb zsx xlk }
+kgs-> { tjb khm kth znz }
+hhs-> { xtd nbv qcl zfl }
+xtd-> { drs txr lsd hhs }
+kmh-> { sjg stl jxv fht }
+qgm-> { mcz tzv fpc mdg }
+vth-> { fbl pvv zkc pxc rzv kgv }
+mjx-> { tvp bsl dkn lzd }
+tqt-> { dqk mht rvq plh }
+ckj-> { mzt txr kbh kxn mpf }
+lgr-> { jlr lqs zdf qrn rhf }
+mqp-> { zhk kct fdg fbv }
+ncv-> { bnq mnf xfc txx }
+jff-> { dgr qll lfz jzf }
+dgr-> { xdp bpj jff prd }
+gpx-> { knf gbk cbc grf }
+szz-> { srs tjj ksr cqk }
+dvx-> { mrk mst hnm gxz }
+hkz-> { vpx htx qrj ddv }
+vpx-> { ppb rrg txg hkz }
+tnt-> { kpf pkt bsf xfl slp }
+blm-> { tlz gvk vnq rlp }
+zfl-> { btf hhs pph mzg dnf }
+rmh-> { nzh cnx sqq rhp }
+pvh-> { vrh qxf dcm kjq }
+bhf-> { hxb zrg dbv hbh }
+tkz-> { cpd tcs ntf ngh bxf }
+pbd-> { fds nzq lrh rpq }
+zdx-> { lsf bqt qcl zvz }
+ttn-> { bbj tgf slp psc }
+xkl-> { dzp qvj bns zqn }
+mjn-> { nkk zhg dfq hpt }
+pqf-> { zkq ptt vqj djg }
+zgt-> { kkg khq sxv hnq }
+kts-> { jkg mjg slp rfq }
+mhq-> { stp hnk mkm kkj }
+rbr-> { qrj rjs hpv rbq }
+vlz-> { zch ldh dkr jgc }
+xsd-> { nbz zxx xjv nvq }
+nbz-> { qjf fvk xsd rxq }
+nzg-> { jrf stc skl dmk }
+rnc-> { brt lkx lxz tkd }
+rdh-> { llr jpn cms fqj trz stl }
+vtk-> { gjx gcr mcb kmr zbp sfn }
+qct-> { nkf jbx lzh lpv zhn }
+tsl-> { zmj vnf lxz lrr }
+cfd-> { bkm gbm pmf dph jcb }
+gmn-> { hpd sbc bns srv njk }
+jhd-> { crn znq jjg srq }
+vfp-> { mpz tmm mnt tps }
+fmp-> { ptt gbz mrl qsr }
+dld-> { pzt hpv klf szr }
+trv-> { nqk fgc vnq ccv }
+xpz-> { bjj mph mbg clx }
+pcr-> { ffd nzx rhv tlz }
+vsd-> { xnt xnq kvp mrn dss }
+hsk-> { ffh qvq txx bsf qfs }
+tzl-> { dkr lls cbx fqz }
+shm-> { rhv grf tjx fcz gfh }
+xjk-> { bkt pmj zmr tjt gzn }
+dkl-> { klh sqm cqk xqd }
+kzh-> { jzc nbv klh tbh }
+kxj-> { prd bzx lqs lzt }
+zmf-> { mjp ccm cmd jrf pkp cdd }
+mxr-> { rkd fpk zsp vmq }
+xhc-> { nkz sfg xcz fdr }
+kvg-> { nqb vdn bbr hhv }
+thn-> { kth msp vfh dvv jkv djl }
+msz-> { lzn bgr hlc jxl }
+fng-> { gph ghp fpq rbq ztk }
+mnl-> { djj pmn qtk zsp }
+kch-> { dxp pzn mdg qkx }
+cls-> { tlc cnx nkz lrt }
+xrn-> { hnm tzm nxf zjp }
+vmj-> { cbb lmv gbk jvb }
+phj-> { bvx hlx skc mtk }
+tkv-> { bgk sjl vvb llg }
+zdm-> { bpg pbm ltt nms jrf }
+bmx-> { lbp vvb kcj dsc }
+dxc-> { pjg kcs jdn hqp kmf }
+tjh-> { ptn fbc fkr jnf }
+vmh-> { flm tdf hzx zlf }
+bht-> { hkq mvx vsx pxg pdr }
+vrz-> { hnq dxr ksz klh }
+}

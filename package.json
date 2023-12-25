@@ -9,6 +9,7 @@
     "singleQuote": true
   },
   "dependencies": {
+    "@graph-algorithm/minimum-cut": "^2.0.0",
     "consola": "^3.2.3",
     "dotenv": "^16.3.1",
     "heap": "^0.2.7",
